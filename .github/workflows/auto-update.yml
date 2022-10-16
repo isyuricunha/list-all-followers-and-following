@@ -1,0 +1,28 @@
+name: Update
+
+on:
+  push:
+    branches: main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Install
+        run: yarn
+      - name: Update
+        run: node main.js
+        env:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git pull
+          git add -A
+          git commit -m "🤖 Auto update README" || exit 0
+          git push

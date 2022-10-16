@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@actions/github": "^4.0.0",
+    "@octokit/rest": "^18.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
