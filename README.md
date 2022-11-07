@@ -932,10 +932,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/jackalstar88">
+      <a href="https://github.com/davidbrowns">
         <img src="https://avatars.githubusercontent.com/u/104762274?v=4" width="50" />
         <br />
-        jackalstar88
+        davidbrowns
       </a>
     </td>
     <td width="150" align="center">
@@ -6210,10 +6210,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/161-crew">
+      <a href="https://github.com/dead-cops">
         <img src="https://avatars.githubusercontent.com/u/46828715?v=4" width="50" />
         <br />
-        161-crew
+        dead-cops
       </a>
     </td>
     <td width="150" align="center">
