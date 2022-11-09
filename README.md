@@ -13,7 +13,7 @@
 | Yuri | please don't say just "hello" in my dms or be prepared to be ignored
  | [https://yuricunha.xyz/](https://https://yuricunha.xyz/) | Brazil | - |
 
-## Followers <kbd>1282</kbd>
+## Followers <kbd>1283</kbd>
 
 <table>
   <tr>
@@ -8182,10 +8182,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/wenjie970">
+      <a href="https://github.com/BC-Master">
         <img src="https://avatars.githubusercontent.com/u/15371417?v=4" width="50" />
         <br />
-        wenjie970
+        BC-Master
       </a>
     </td>
   </tr><tr>
@@ -9219,12 +9219,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/AndyBowskill">
+        <img src="https://avatars.githubusercontent.com/u/141901?v=4" width="50" />
+        <br />
+        AndyBowskill
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/esin">
         <img src="https://avatars.githubusercontent.com/u/69767?v=4" width="50" />
         <br />
         esin
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/fivetop">
         <img src="https://avatars.githubusercontent.com/u/50413?v=4" width="50" />
@@ -9232,7 +9240,6 @@
         fivetop
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/linces">
         <img src="https://avatars.githubusercontent.com/u/45243?v=4" width="50" />
@@ -9246,8 +9253,6 @@
         <br />
         matiasinsaurralde
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
@@ -14005,10 +14010,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/wenjie970">
+      <a href="https://github.com/BC-Master">
         <img src="https://avatars.githubusercontent.com/u/15371417?v=4" width="50" />
         <br />
-        wenjie970
+        BC-Master
       </a>
     </td>
   </tr><tr>
