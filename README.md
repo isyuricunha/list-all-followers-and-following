@@ -22613,10 +22613,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/leandrosdev">
+      <a href="https://github.com/lmscraft">
         <img src="https://avatars.githubusercontent.com/u/35819538?v=4" width="50" />
         <br />
-        leandrosdev
+        lmscraft
       </a>
     </td>
   </tr><tr>
