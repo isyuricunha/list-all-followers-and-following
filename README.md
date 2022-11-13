@@ -10,8 +10,7 @@
 
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
-| Yuri | Do good. Have courage. Be kind.
- | [https://yuricunha.xyz/](https://https://yuricunha.xyz/) | Brazil | - |
+| Yuri | - | [https://yuricunha.xyz/](https://https://yuricunha.xyz/) | Brazil | - |
 
 ## Followers <kbd>1389</kbd>
 
