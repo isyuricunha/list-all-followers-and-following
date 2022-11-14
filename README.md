@@ -10,7 +10,7 @@
 
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
-| Yuri | - | [https://yuricunha.xyz/](https://https://yuricunha.xyz/) | Brazil | - |
+| Yuri | - | [https://snipfeed.co/isyuricunha](https://https://snipfeed.co/isyuricunha) | Brazil | - |
 
 ## Followers <kbd>1401</kbd>
 
