@@ -12,7 +12,7 @@
 | -- | -- | -- | -- | -- |
 | Yuri Cunha | - | [https://www.yuricunha.xyz/](https://https://www.yuricunha.xyz/) | Brazil | - |
 
-## Followers <kbd>1401</kbd>
+## Followers <kbd>1400</kbd>
 
 <table>
   <tr>
@@ -10032,13 +10032,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/qawemlilo">
-        <img src="https://avatars.githubusercontent.com/u/363359?v=4" width="50" />
-        <br />
-        qawemlilo
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/alegauss">
         <img src="https://avatars.githubusercontent.com/u/331174?v=4" width="50" />
         <br />
@@ -10059,7 +10052,6 @@
         hectormenendez
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AndyBowskill">
         <img src="https://avatars.githubusercontent.com/u/141901?v=4" width="50" />
@@ -10067,6 +10059,7 @@
         AndyBowskill
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dmitrysobolev">
         <img src="https://avatars.githubusercontent.com/u/117603?v=4" width="50" />
@@ -10095,21 +10088,12 @@
         linces
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/matiasinsaurralde">
         <img src="https://avatars.githubusercontent.com/u/20110?v=4" width="50" />
         <br />
         matiasinsaurralde
       </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
