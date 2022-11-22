@@ -283,10 +283,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/mbahomaid">
+      <a href="https://github.com/KRyouta">
         <img src="https://avatars.githubusercontent.com/u/112167901?v=4" width="50" />
         <br />
-        mbahomaid
+        KRyouta
       </a>
     </td>
     <td width="150" align="center">
