@@ -9991,7 +9991,7 @@
   </tr>
 </table>
 
-## Following <kbd>24</kbd>
+## Following <kbd>27</kbd>
 
 <table>
   <tr>
@@ -10166,6 +10166,32 @@
         <br />
         kenjinote
       </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/felpfsf">
+        <img src="https://avatars.githubusercontent.com/u/2619027?v=4" width="50" />
+        <br />
+        felpfsf
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/petrozavodsky">
+        <img src="https://avatars.githubusercontent.com/u/2689829?v=4" width="50" />
+        <br />
+        petrozavodsky
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/diogo-alves">
+        <img src="https://avatars.githubusercontent.com/u/2959948?v=4" width="50" />
+        <br />
+        diogo-alves
+      </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
