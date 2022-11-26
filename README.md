@@ -97,10 +97,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/lun4b0y">
+      <a href="https://github.com/LtzDarik">
         <img src="https://avatars.githubusercontent.com/u/114980083?v=4" width="50" />
         <br />
-        lun4b0y
+        LtzDarik
       </a>
     </td>
     <td width="150" align="center">
