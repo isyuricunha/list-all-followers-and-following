@@ -4496,10 +4496,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/GustavoNicolau">
+      <a href="https://github.com/thenicolauuu">
         <img src="https://avatars.githubusercontent.com/u/69599318?v=4" width="50" />
         <br />
-        GustavoNicolau
+        thenicolauuu
       </a>
     </td>
     <td width="150" align="center">
