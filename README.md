@@ -3733,10 +3733,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/codemuse-io">
+      <a href="https://github.com/codemuse-ke">
         <img src="https://avatars.githubusercontent.com/u/77434770?v=4" width="50" />
         <br />
-        codemuse-io
+        codemuse-ke
       </a>
     </td>
     <td width="150" align="center">
