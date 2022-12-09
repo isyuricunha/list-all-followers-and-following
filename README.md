@@ -2523,10 +2523,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/pedromedeiros1008">
+      <a href="https://github.com/itspedromedeiros">
         <img src="https://avatars.githubusercontent.com/u/88813848?v=4" width="50" />
         <br />
-        pedromedeiros1008
+        itspedromedeiros
       </a>
     </td>
     <td width="150" align="center">
