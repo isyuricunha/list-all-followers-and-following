@@ -2127,10 +2127,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/seilacalakovic">
+      <a href="https://github.com/sejlacalakovic">
         <img src="https://avatars.githubusercontent.com/u/93834429?v=4" width="50" />
         <br />
-        seilacalakovic
+        sejlacalakovic
       </a>
     </td>
     <td width="150" align="center">
