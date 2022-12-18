@@ -39,10 +39,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/kevinorris">
+      <a href="https://github.com/ProFullStackDev">
         <img src="https://avatars.githubusercontent.com/u/116855918?v=4" width="50" />
         <br />
-        kevinorris
+        ProFullStackDev
       </a>
     </td>
     <td width="150" align="center">
