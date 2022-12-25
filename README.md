@@ -10125,7 +10125,7 @@
   </tr>
 </table>
 
-## Following <kbd>1934</kbd>
+## Following <kbd>1940</kbd>
 
 <table>
   <tr>
@@ -24047,13 +24047,54 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/1MahdiR">
+        <img src="https://avatars.githubusercontent.com/u/69723444?v=4" width="50" />
+        <br />
+        1MahdiR
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Kuuuuuuuu">
+        <img src="https://avatars.githubusercontent.com/u/69802296?v=4" width="50" />
+        <br />
+        Kuuuuuuuu
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/MrSpock1994">
+        <img src="https://avatars.githubusercontent.com/u/69828127?v=4" width="50" />
+        <br />
+        MrSpock1994
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Axel-07">
+        <img src="https://avatars.githubusercontent.com/u/69872620?v=4" width="50" />
+        <br />
+        Axel-07
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Christiangsn">
+        <img src="https://avatars.githubusercontent.com/u/69879759?v=4" width="50" />
+        <br />
+        Christiangsn
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/tonypereiramelo">
+        <img src="https://avatars.githubusercontent.com/u/69940926?v=4" width="50" />
+        <br />
+        tonypereiramelo
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/lucca456">
         <img src="https://avatars.githubusercontent.com/u/72107179?v=4" width="50" />
         <br />
         lucca456
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
