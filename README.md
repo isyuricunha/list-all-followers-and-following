@@ -10124,7 +10124,7 @@
   </tr>
 </table>
 
-## Following <kbd>2143</kbd>
+## Following <kbd>2147</kbd>
 
 <table>
   <tr>
@@ -25556,6 +25556,37 @@
         <br />
         Andy-GB91
       </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Lucas-dev-back">
+        <img src="https://avatars.githubusercontent.com/u/76585138?v=4" width="50" />
+        <br />
+        Lucas-dev-back
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/jacksondouglasdesouza">
+        <img src="https://avatars.githubusercontent.com/u/76602433?v=4" width="50" />
+        <br />
+        jacksondouglasdesouza
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/devHikary">
+        <img src="https://avatars.githubusercontent.com/u/76630661?v=4" width="50" />
+        <br />
+        devHikary
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Morium-Nasa">
+        <img src="https://avatars.githubusercontent.com/u/76652494?v=4" width="50" />
+        <br />
+        Morium-Nasa
+      </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
