@@ -10906,7 +10906,7 @@
   </tr>
 </table>
 
-## Following <kbd>81</kbd>
+## Following <kbd>84</kbd>
 
 <table>
   <tr>
@@ -11451,6 +11451,27 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/Guerlielton">
+        <img src="https://avatars.githubusercontent.com/u/1194670?v=4" width="50" />
+        <br />
+        Guerlielton
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/choonghyunryu">
+        <img src="https://avatars.githubusercontent.com/u/1195558?v=4" width="50" />
+        <br />
+        choonghyunryu
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/sminrana">
+        <img src="https://avatars.githubusercontent.com/u/1198864?v=4" width="50" />
+        <br />
+        sminrana
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/lucca456">
         <img src="https://avatars.githubusercontent.com/u/72107179?v=4" width="50" />
         <br />
@@ -11464,6 +11485,7 @@
         jaleyerdelen
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bhavyakrishna001">
         <img src="https://avatars.githubusercontent.com/u/82134893?v=4" width="50" />
@@ -11485,19 +11507,12 @@
         udyogi-siphara
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/iamsandralima">
         <img src="https://avatars.githubusercontent.com/u/107657763?v=4" width="50" />
         <br />
         iamsandralima
       </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
