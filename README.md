@@ -15037,10 +15037,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/WandersonLopes">
+      <a href="https://github.com/wandersondlopes">
         <img src="https://avatars.githubusercontent.com/u/4650642?v=4" width="50" />
         <br />
-        WandersonLopes
+        wandersondlopes
       </a>
     </td>
     <td width="150" align="center">
