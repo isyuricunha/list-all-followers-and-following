@@ -15535,26 +15535,10 @@
   </tr>
 </table>
 
-## Following <kbd>1</kbd>
+## Following <kbd>0</kbd>
 
 <table>
-  <tr>
-    <td width="150" align="center">
-      <a href="https://github.com/Z4rak">
-        <img src="https://avatars.githubusercontent.com/u/65371336?v=4" width="50" />
-        <br />
-        Z4rak
-      </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-  </tr>
+  
 </table>
 
 ## LICENSE
