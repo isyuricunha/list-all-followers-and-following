@@ -4424,10 +4424,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/damisk1">
+      <a href="https://github.com/gabrieldamiski">
         <img src="https://avatars.githubusercontent.com/u/78889170?v=4" width="50" />
         <br />
-        damisk1
+        gabrieldamiski
       </a>
     </td>
     <td width="150" align="center">
