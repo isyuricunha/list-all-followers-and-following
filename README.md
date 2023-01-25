@@ -154,10 +154,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/ainas98">
+      <a href="https://github.com/horizonvert1027">
         <img src="https://avatars.githubusercontent.com/u/117667761?v=4" width="50" />
         <br />
-        ainas98
+        horizonvert1027
       </a>
     </td>
   </tr><tr>
