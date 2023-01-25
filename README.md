@@ -154,10 +154,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/horizonvert1027">
+      <a href="https://github.com/ainas98">
         <img src="https://avatars.githubusercontent.com/u/117667761?v=4" width="50" />
         <br />
-        horizonvert1027
+        ainas98
       </a>
     </td>
   </tr><tr>
@@ -13374,10 +13374,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/thomasm0077">
+      <a href="https://github.com/developer-thomasmk">
         <img src="https://avatars.githubusercontent.com/u/16507365?v=4" width="50" />
         <br />
-        thomasm0077
+        developer-thomasmk
       </a>
     </td>
     <td width="150" align="center">
