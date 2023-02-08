@@ -46,10 +46,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/brunofrontend">
+      <a href="https://github.com/bmotadev">
         <img src="https://avatars.githubusercontent.com/u/123843027?v=4" width="50" />
         <br />
-        brunofrontend
+        bmotadev
       </a>
     </td>
   </tr><tr>
@@ -27374,10 +27374,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/brunofrontend">
+      <a href="https://github.com/bmotadev">
         <img src="https://avatars.githubusercontent.com/u/123843027?v=4" width="50" />
         <br />
-        brunofrontend
+        bmotadev
       </a>
     </td>
     <td width="150" align="center">
