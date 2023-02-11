@@ -9990,6 +9990,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/zakarialaoui10">
+        <img src="https://avatars.githubusercontent.com/u/63521765?v=4" width="50" />
+        <br />
+        zakarialaoui10
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/FranLyrio">
         <img src="https://avatars.githubusercontent.com/u/63431243?v=4" width="50" />
         <br />
@@ -10001,13 +10008,6 @@
         <img src="https://avatars.githubusercontent.com/u/63412716?v=4" width="50" />
         <br />
         LoopMon
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/Lucas-HMSC">
-        <img src="https://avatars.githubusercontent.com/u/63379937?v=4" width="50" />
-        <br />
-        Lucas-HMSC
       </a>
     </td>
     <td width="150" align="center">
