@@ -7858,10 +7858,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/josericardo03">
+      <a href="https://github.com/jr20xx">
         <img src="https://avatars.githubusercontent.com/u/72922477?v=4" width="50" />
         <br />
-        josericardo03
+        jr20xx
       </a>
     </td>
   </tr><tr>
