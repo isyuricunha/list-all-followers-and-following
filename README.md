@@ -752,10 +752,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/tigerion1993">
+      <a href="https://github.com/MaksymWWW">
         <img src="https://avatars.githubusercontent.com/u/114732941?v=4" width="50" />
         <br />
-        tigerion1993
+        MaksymWWW
       </a>
     </td>
     <td width="150" align="center">
