@@ -12992,10 +12992,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/2504Guimaraes">
+      <a href="https://github.com/IvanGuimSilva">
         <img src="https://avatars.githubusercontent.com/u/44307177?v=4" width="50" />
         <br />
-        2504Guimaraes
+        IvanGuimSilva
       </a>
     </td>
     <td width="150" align="center">
