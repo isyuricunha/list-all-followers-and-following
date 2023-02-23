@@ -925,10 +925,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/dngaspar5">
+      <a href="https://github.com/tomokomori11">
         <img src="https://avatars.githubusercontent.com/u/113423445?v=4" width="50" />
         <br />
-        dngaspar5
+        tomokomori11
       </a>
     </td>
     <td width="150" align="center">
