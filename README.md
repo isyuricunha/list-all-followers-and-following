@@ -6865,10 +6865,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/codemuse-ke">
+      <a href="https://github.com/codemuseKE">
         <img src="https://avatars.githubusercontent.com/u/77434770?v=4" width="50" />
         <br />
-        codemuse-ke
+        codemuseKE
       </a>
     </td>
     <td width="150" align="center">
