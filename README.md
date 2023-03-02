@@ -730,10 +730,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/MaksymZakharov-Dev">
+      <a href="https://github.com/fedirlutsenko">
         <img src="https://avatars.githubusercontent.com/u/114732941?v=4" width="50" />
         <br />
-        MaksymZakharov-Dev
+        fedirlutsenko
       </a>
     </td>
   </tr><tr>
