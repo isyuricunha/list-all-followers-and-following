@@ -1105,10 +1105,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/web3-king">
+      <a href="https://github.com/gabriel-bull">
         <img src="https://avatars.githubusercontent.com/u/110966784?v=4" width="50" />
         <br />
-        web3-king
+        gabriel-bull
       </a>
     </td>
     <td width="150" align="center">
