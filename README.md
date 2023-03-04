@@ -10890,10 +10890,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/NomaDiix">
+      <a href="https://github.com/Fabian-Martinez-Rincon">
         <img src="https://avatars.githubusercontent.com/u/55964635?v=4" width="50" />
         <br />
-        NomaDiix
+        Fabian-Martinez-Rincon
       </a>
     </td>
     <td width="150" align="center">
