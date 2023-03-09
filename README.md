@@ -3171,10 +3171,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/jovonline">
+      <a href="https://github.com/jovotech-io">
         <img src="https://avatars.githubusercontent.com/u/97841807?v=4" width="50" />
         <br />
-        jovonline
+        jovotech-io
       </a>
     </td>
     <td width="150" align="center">
