@@ -11617,10 +11617,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Kshatriyaprithviraj">
+      <a href="https://github.com/iamVaidh">
         <img src="https://avatars.githubusercontent.com/u/50717968?v=4" width="50" />
         <br />
-        Kshatriyaprithviraj
+        iamVaidh
       </a>
     </td>
     <td width="150" align="center">
