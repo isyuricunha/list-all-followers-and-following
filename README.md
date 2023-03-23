@@ -104,10 +104,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Esio1998">
+      <a href="https://github.com/esioalmeida">
         <img src="https://avatars.githubusercontent.com/u/122577592?v=4" width="50" />
         <br />
-        Esio1998
+        esioalmeida
       </a>
     </td>
     <td width="150" align="center">
