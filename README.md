@@ -889,10 +889,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/tomokomori11">
+      <a href="https://github.com/masayukipy">
         <img src="https://avatars.githubusercontent.com/u/113423445?v=4" width="50" />
         <br />
-        tomokomori11
+        masayukipy
       </a>
     </td>
     <td width="150" align="center">
