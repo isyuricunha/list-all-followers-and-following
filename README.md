@@ -7095,10 +7095,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/awsome-dev-journey">
+      <a href="https://github.com/mern-dev-pro">
         <img src="https://avatars.githubusercontent.com/u/75461450?v=4" width="50" />
         <br />
-        awsome-dev-journey
+        mern-dev-pro
       </a>
     </td>
     <td width="150" align="center">
