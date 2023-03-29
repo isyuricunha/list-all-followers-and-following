@@ -2466,10 +2466,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/SinaTajikJS">
+      <a href="https://github.com/sinatajikjs">
         <img src="https://avatars.githubusercontent.com/u/102314451?v=4" width="50" />
         <br />
-        SinaTajikJS
+        sinatajikjs
       </a>
     </td>
     <td width="150" align="center">
