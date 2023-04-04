@@ -6130,10 +6130,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/TAKANOME-DEV">
+      <a href="https://github.com/takanome-dev">
         <img src="https://avatars.githubusercontent.com/u/79809121?v=4" width="50" />
         <br />
-        TAKANOME-DEV
+        takanome-dev
       </a>
     </td>
   </tr><tr>
