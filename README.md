@@ -3927,10 +3927,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Breno-santana">
+      <a href="https://github.com/Breno-Santana">
         <img src="https://avatars.githubusercontent.com/u/93136785?v=4" width="50" />
         <br />
-        Breno-santana
+        Breno-Santana
       </a>
     </td>
     <td width="150" align="center">
