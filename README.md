@@ -11523,10 +11523,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/29THIR7YS3VEN">
+      <a href="https://github.com/emopal">
         <img src="https://avatars.githubusercontent.com/u/49512755?v=4" width="50" />
         <br />
-        29THIR7YS3VEN
+        emopal
       </a>
     </td>
     <td width="150" align="center">
