@@ -2473,10 +2473,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/techsavvy1900">
+      <a href="https://github.com/rico191013">
         <img src="https://avatars.githubusercontent.com/u/101926344?v=4" width="50" />
         <br />
-        techsavvy1900
+        rico191013
       </a>
     </td>
     <td width="150" align="center">
