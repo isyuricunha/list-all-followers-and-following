@@ -24,5 +24,5 @@ jobs:
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git pull
           git add -A
-          git commit -m "🤖 Auto update README" || exit 0
+          git commit -m "updating the readme with new infos" || exit 0
           git push
