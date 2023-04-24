@@ -17577,20 +17577,66 @@
   </tr>
 </table>
 
-## Following <kbd>1</kbd>
+## Following <kbd>8</kbd>
 
 <table>
   <tr>
     <td width="150" align="center">
-      <a href="https://github.com/lucca456">
-        <img src="https://avatars.githubusercontent.com/u/72107179?v=4" width="50" />
+      <a href="https://github.com/charlenopires">
+        <img src="https://avatars.githubusercontent.com/u/1365?v=4" width="50" />
         <br />
-        lucca456
+        charlenopires
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/gustavocardoso">
+        <img src="https://avatars.githubusercontent.com/u/3013?v=4" width="50" />
+        <br />
+        gustavocardoso
+      </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/djalmaaraujo">
+        <img src="https://avatars.githubusercontent.com/u/3402?v=4" width="50" />
+        <br />
+        djalmaaraujo
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/tvarjao">
+        <img src="https://avatars.githubusercontent.com/u/6584?v=4" width="50" />
+        <br />
+        tvarjao
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/dausech">
+        <img src="https://avatars.githubusercontent.com/u/6998?v=4" width="50" />
+        <br />
+        dausech
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/fabriziomachado">
+        <img src="https://avatars.githubusercontent.com/u/7240?v=4" width="50" />
+        <br />
+        fabriziomachado
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/jweslley">
+        <img src="https://avatars.githubusercontent.com/u/13856?v=4" width="50" />
+        <br />
+        jweslley
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/christophermoura">
+        <img src="https://avatars.githubusercontent.com/u/14416?v=4" width="50" />
+        <br />
+        christophermoura
+      </a>
     </td>
     <td width="150" align="center">
     </td>
