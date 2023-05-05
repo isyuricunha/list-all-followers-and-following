@@ -1976,13 +1976,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Shubh2-0">
-        <img src="https://avatars.githubusercontent.com/u/112773220?v=4" width="50" />
-        <br />
-        Shubh2-0
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/appletv850">
         <img src="https://avatars.githubusercontent.com/u/112766098?v=4" width="50" />
         <br />
@@ -1996,7 +1989,6 @@
         vishal-girhepunje
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Tushargandhi07">
         <img src="https://avatars.githubusercontent.com/u/112754667?v=4" width="50" />
@@ -2004,6 +1996,7 @@
         Tushargandhi07
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/scorpion-jsb">
         <img src="https://avatars.githubusercontent.com/u/112656849?v=4" width="50" />
@@ -2032,7 +2025,6 @@
         kingstech5566
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/develvisilva">
         <img src="https://avatars.githubusercontent.com/u/112388301?v=4" width="50" />
@@ -2040,6 +2032,7 @@
         develvisilva
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Web3-Ryan">
         <img src="https://avatars.githubusercontent.com/u/112384843?v=4" width="50" />
@@ -2066,6 +2059,13 @@
         <img src="https://avatars.githubusercontent.com/u/112107085?v=4" width="50" />
         <br />
         LeOzInNDF
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Leo1afx">
+        <img src="https://avatars.githubusercontent.com/u/112039457?v=4" width="50" />
+        <br />
+        Leo1afx
       </a>
     </td>
   </tr><tr>
