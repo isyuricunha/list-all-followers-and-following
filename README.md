@@ -16030,10 +16030,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/salientarc">
+      <a href="https://github.com/bonitoflakez">
         <img src="https://avatars.githubusercontent.com/u/78542800?v=4" width="50" />
         <br />
-        salientarc
+        bonitoflakez
       </a>
     </td>
   </tr><tr>
