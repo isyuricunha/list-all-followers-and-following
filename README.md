@@ -13,7 +13,7 @@
 | Yuri Cunha | please don't say just "hello" in my dms or be prepared to be ignored
  | [https://www.yuricunha.xyz/](https://https://www.yuricunha.xyz/) | - | - |
 
-## Followers <kbd>4596</kbd>
+## Followers <kbd>4591</kbd>
 
 <table>
   <tr>
@@ -154,20 +154,13 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/zoumananc">
-        <img src="https://avatars.githubusercontent.com/u/134768935?v=4" width="50" />
-        <br />
-        zoumananc
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
       <a href="https://github.com/andamlak1">
         <img src="https://avatars.githubusercontent.com/u/134768934?v=4" width="50" />
         <br />
         andamlak1
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/alihhassa">
         <img src="https://avatars.githubusercontent.com/u/134768932?v=4" width="50" />
@@ -183,25 +176,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/nasirun">
-        <img src="https://avatars.githubusercontent.com/u/134768930?v=4" width="50" />
-        <br />
-        nasirun
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/micahmall">
         <img src="https://avatars.githubusercontent.com/u/134768929?v=4" width="50" />
         <br />
         micahmall
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
-      <a href="https://github.com/htbrothernanc">
-        <img src="https://avatars.githubusercontent.com/u/134768928?v=4" width="50" />
-        <br />
-        htbrothernanc
       </a>
     </td>
     <td width="150" align="center">
@@ -218,6 +196,7 @@
         wrdhzhrh2
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/za1034sd">
         <img src="https://avatars.githubusercontent.com/u/134730112?v=4" width="50" />
@@ -232,7 +211,6 @@
         yasminalshoga
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/za3023581">
         <img src="https://avatars.githubusercontent.com/u/134730107?v=4" width="50" />
@@ -241,24 +219,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/zasycuhid">
-        <img src="https://avatars.githubusercontent.com/u/134730106?v=4" width="50" />
-        <br />
-        zasycuhid
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/yhyalbwsh14">
         <img src="https://avatars.githubusercontent.com/u/134730105?v=4" width="50" />
         <br />
         yhyalbwsh14
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/yvesmusonera">
-        <img src="https://avatars.githubusercontent.com/u/134730103?v=4" width="50" />
-        <br />
-        yvesmusonera
       </a>
     </td>
     <td width="150" align="center">
