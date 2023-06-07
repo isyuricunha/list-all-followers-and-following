@@ -6102,10 +6102,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/rodhtml">
+      <a href="https://github.com/DevRodrigoAraujo">
         <img src="https://avatars.githubusercontent.com/u/107268087?v=4" width="50" />
         <br />
-        rodhtml
+        DevRodrigoAraujo
       </a>
     </td>
     <td width="150" align="center">
