@@ -13,7 +13,7 @@
 | Yuri Cunha | please don't say just "hello" in my dms or be prepared to be ignored
  | [https://www.yuricunha.xyz/](https://https://www.yuricunha.xyz/) | - | - |
 
-## Followers <kbd>4502</kbd>
+## Followers <kbd>4501</kbd>
 
 <table>
   <tr>
@@ -32418,18 +32418,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/tomshaw">
-        <img src="https://avatars.githubusercontent.com/u/32818?v=4" width="50" />
-        <br />
-        tomshaw
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/matiasinsaurralde">
         <img src="https://avatars.githubusercontent.com/u/20110?v=4" width="50" />
         <br />
         matiasinsaurralde
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
