@@ -514,10 +514,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/LegendaryKrishna">
+      <a href="https://github.com/BestFriend-Sweet">
         <img src="https://avatars.githubusercontent.com/u/132333928?v=4" width="50" />
         <br />
-        LegendaryKrishna
+        BestFriend-Sweet
       </a>
     </td>
   </tr><tr>
