@@ -21114,10 +21114,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/ErmanKonyar">
+      <a href="https://github.com/hermannKonyar">
         <img src="https://avatars.githubusercontent.com/u/58660686?v=4" width="50" />
         <br />
-        ErmanKonyar
+        hermannKonyar
       </a>
     </td>
     <td width="150" align="center">
