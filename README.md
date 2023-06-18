@@ -13604,10 +13604,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/bernardoccosta">
+      <a href="https://github.com/brawlingthebits">
         <img src="https://avatars.githubusercontent.com/u/82663991?v=4" width="50" />
         <br />
-        bernardoccosta
+        brawlingthebits
       </a>
     </td>
     <td width="150" align="center">
