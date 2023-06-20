@@ -11415,10 +11415,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/FedeBayer">
+      <a href="https://github.com/bayerrz">
         <img src="https://avatars.githubusercontent.com/u/89879671?v=4" width="50" />
         <br />
-        FedeBayer
+        bayerrz
       </a>
     </td>
     <td width="150" align="center">
