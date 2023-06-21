@@ -15426,10 +15426,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/codemuseKE">
+      <a href="https://github.com/RosesMwangi">
         <img src="https://avatars.githubusercontent.com/u/77434770?v=4" width="50" />
         <br />
-        codemuseKE
+        RosesMwangi
       </a>
     </td>
     <td width="150" align="center">
