@@ -694,10 +694,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/hit-dev07">
+      <a href="https://github.com/uniway-hitman">
         <img src="https://avatars.githubusercontent.com/u/131217149?v=4" width="50" />
         <br />
-        hit-dev07
+        uniway-hitman
       </a>
     </td>
   </tr><tr>
