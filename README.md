@@ -15274,10 +15274,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/RosesMwangi">
+      <a href="https://github.com/rose-mwangl">
         <img src="https://avatars.githubusercontent.com/u/77434770?v=4" width="50" />
         <br />
-        RosesMwangi
+        rose-mwangl
       </a>
     </td>
   </tr><tr>
