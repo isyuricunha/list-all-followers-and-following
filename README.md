@@ -12668,10 +12668,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Super-Smile">
+      <a href="https://github.com/TechAriSet">
         <img src="https://avatars.githubusercontent.com/u/85211574?v=4" width="50" />
         <br />
-        Super-Smile
+        TechAriSet
       </a>
     </td>
     <td width="150" align="center">
