@@ -15102,10 +15102,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/jose-cipriano">
+      <a href="https://github.com/ronnie-samaroo">
         <img src="https://avatars.githubusercontent.com/u/77883042?v=4" width="50" />
         <br />
-        jose-cipriano
+        ronnie-samaroo
       </a>
     </td>
     <td width="150" align="center">
