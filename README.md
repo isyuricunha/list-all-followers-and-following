@@ -15188,10 +15188,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/rose-mwangl">
+      <a href="https://github.com/R-o-se">
         <img src="https://avatars.githubusercontent.com/u/77434770?v=4" width="50" />
         <br />
-        rose-mwangl
+        R-o-se
       </a>
     </td>
     <td width="150" align="center">
