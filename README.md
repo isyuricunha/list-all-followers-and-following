@@ -4798,10 +4798,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/suamirocha">
+      <a href="https://github.com/suamirochadev">
         <img src="https://avatars.githubusercontent.com/u/110056279?v=4" width="50" />
         <br />
-        suamirocha
+        suamirochadev
       </a>
     </td>
   </tr><tr>
