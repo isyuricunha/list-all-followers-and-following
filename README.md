@@ -31288,26 +31288,10 @@
   </tr>
 </table>
 
-## Following <kbd>1</kbd>
+## Following <kbd>0</kbd>
 
 <table>
-  <tr>
-    <td width="150" align="center">
-      <a href="https://github.com/cumsoft">
-        <img src="https://avatars.githubusercontent.com/u/97250816?v=4" width="50" />
-        <br />
-        cumsoft
-      </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-  </tr>
+  
 </table>
 
 ## LICENSE
