@@ -21488,10 +21488,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Bytemaster82">
+      <a href="https://github.com/legend524">
         <img src="https://avatars.githubusercontent.com/u/54629888?v=4" width="50" />
         <br />
-        Bytemaster82
+        legend524
       </a>
     </td>
     <td width="150" align="center">
