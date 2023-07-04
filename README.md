@@ -17190,10 +17190,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/richiedev666">
+      <a href="https://github.com/selimdev00">
         <img src="https://avatars.githubusercontent.com/u/69434200?v=4" width="50" />
         <br />
-        richiedev666
+        selimdev00
       </a>
     </td>
     <td width="150" align="center">
