@@ -12625,10 +12625,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Kamilismayilzade">
+      <a href="https://github.com/kamawallsec">
         <img src="https://avatars.githubusercontent.com/u/84046930?v=4" width="50" />
         <br />
-        Kamilismayilzade
+        kamawallsec
       </a>
     </td>
     <td width="150" align="center">
