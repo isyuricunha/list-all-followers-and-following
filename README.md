@@ -16088,10 +16088,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/bistimulus">
+      <a href="https://github.com/ChettriBishal">
         <img src="https://avatars.githubusercontent.com/u/72753662?v=4" width="50" />
         <br />
-        bistimulus
+        ChettriBishal
       </a>
     </td>
     <td width="150" align="center">
