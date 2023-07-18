@@ -15375,10 +15375,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/SaniyeToy">
+      <a href="https://github.com/ToyZeynep1">
         <img src="https://avatars.githubusercontent.com/u/75203610?v=4" width="50" />
         <br />
-        SaniyeToy
+        ToyZeynep1
       </a>
     </td>
     <td width="150" align="center">
