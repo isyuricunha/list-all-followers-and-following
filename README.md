@@ -939,10 +939,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/logheadID">
+      <a href="https://github.com/olrycc">
         <img src="https://avatars.githubusercontent.com/u/126777640?v=4" width="50" />
         <br />
-        logheadID
+        olrycc
       </a>
     </td>
     <td width="150" align="center">
