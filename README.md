@@ -19479,10 +19479,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/BLACKPRINCE98">
+      <a href="https://github.com/AlexKiprono">
         <img src="https://avatars.githubusercontent.com/u/60614703?v=4" width="50" />
         <br />
-        BLACKPRINCE98
+        AlexKiprono
       </a>
     </td>
     <td width="150" align="center">
