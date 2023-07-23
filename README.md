@@ -3942,10 +3942,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/star0713">
+      <a href="https://github.com/legendaryKnight1">
         <img src="https://avatars.githubusercontent.com/u/112977494?v=4" width="50" />
         <br />
-        star0713
+        legendaryKnight1
       </a>
     </td>
     <td width="150" align="center">
