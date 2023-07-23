@@ -25131,10 +25131,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/EntornoJT">
+      <a href="https://github.com/entorno0802">
         <img src="https://avatars.githubusercontent.com/u/35817574?v=4" width="50" />
         <br />
-        EntornoJT
+        entorno0802
       </a>
     </td>
     <td width="150" align="center">
