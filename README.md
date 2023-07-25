@@ -11,7 +11,7 @@
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
 | Yuri Cunha | please don't say just "hello" in my dms or be prepared to be ignored
- | [https://www.yuricunha.xyz/](https://https://www.yuricunha.xyz/) | - | - |
+ | [https://www.yuricunha.xyz/](https://https://www.yuricunha.xyz/) | Brazil | - |
 
 ## Followers <kbd>4259</kbd>
 
