@@ -385,10 +385,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/21st-Athena">
+      <a href="https://github.com/GoddessOfDev">
         <img src="https://avatars.githubusercontent.com/u/132208831?v=4" width="50" />
         <br />
-        21st-Athena
+        GoddessOfDev
       </a>
     </td>
     <td width="150" align="center">
