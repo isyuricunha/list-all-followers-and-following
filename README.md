@@ -896,10 +896,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/HumbleRens">
+      <a href="https://github.com/pwnren">
         <img src="https://avatars.githubusercontent.com/u/127228607?v=4" width="50" />
         <br />
-        HumbleRens
+        pwnren
       </a>
     </td>
     <td width="150" align="center">
