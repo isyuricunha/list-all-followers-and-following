@@ -10450,10 +10450,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Aliine98">
+      <a href="https://github.com/aliine98">
         <img src="https://avatars.githubusercontent.com/u/90913523?v=4" width="50" />
         <br />
-        Aliine98
+        aliine98
       </a>
     </td>
   </tr><tr>
