@@ -40972,7 +40972,7 @@
   </tr>
 </table>
 
-## Following <kbd>11610</kbd>
+## Following <kbd>11615</kbd>
 
 <table>
   <tr>
@@ -124565,6 +124565,42 @@
         <img src="https://avatars.githubusercontent.com/u/97856960?v=4" width="50" />
         <br />
         moylie
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/MazarottoGuilherme">
+        <img src="https://avatars.githubusercontent.com/u/97857137?v=4" width="50" />
+        <br />
+        MazarottoGuilherme
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Ashcon24">
+        <img src="https://avatars.githubusercontent.com/u/97857217?v=4" width="50" />
+        <br />
+        Ashcon24
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/yasermj18">
+        <img src="https://avatars.githubusercontent.com/u/97857355?v=4" width="50" />
+        <br />
+        yasermj18
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Javvvvvvvvvvvva">
+        <img src="https://avatars.githubusercontent.com/u/97857545?v=4" width="50" />
+        <br />
+        Javvvvvvvvvvvva
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/YoussefHatem2002">
+        <img src="https://avatars.githubusercontent.com/u/97857884?v=4" width="50" />
+        <br />
+        YoussefHatem2002
       </a>
     </td>
   </tr>
