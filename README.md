@@ -17730,10 +17730,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/sds2317884">
+      <a href="https://github.com/Hugh-KR">
         <img src="https://avatars.githubusercontent.com/u/83931353?v=4" width="50" />
         <br />
-        sds2317884
+        Hugh-KR
       </a>
     </td>
     <td width="150" align="center">
@@ -109209,10 +109209,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/sds2317884">
+      <a href="https://github.com/Hugh-KR">
         <img src="https://avatars.githubusercontent.com/u/83931353?v=4" width="50" />
         <br />
-        sds2317884
+        Hugh-KR
       </a>
     </td>
     <td width="150" align="center">
