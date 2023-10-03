@@ -25389,10 +25389,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/gurecci">
+      <a href="https://github.com/guereci">
         <img src="https://avatars.githubusercontent.com/u/65499362?v=4" width="50" />
         <br />
-        gurecci
+        guereci
       </a>
     </td>
   </tr><tr>
