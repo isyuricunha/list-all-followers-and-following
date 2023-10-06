@@ -32150,10 +32150,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Zephyr-Xu">
+      <a href="https://github.com/JedediahXu">
         <img src="https://avatars.githubusercontent.com/u/44160015?v=4" width="50" />
         <br />
-        Zephyr-Xu
+        JedediahXu
       </a>
     </td>
     <td width="150" align="center">
