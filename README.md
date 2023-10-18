@@ -225,10 +225,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/dennisdejeng">
+      <a href="https://github.com/quirkmeister">
         <img src="https://avatars.githubusercontent.com/u/141368446?v=4" width="50" />
         <br />
-        dennisdejeng
+        quirkmeister
       </a>
     </td>
   </tr><tr>
