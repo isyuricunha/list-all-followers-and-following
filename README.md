@@ -6842,10 +6842,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/mazenmuhammeed">
+      <a href="https://github.com/therealmazen">
         <img src="https://avatars.githubusercontent.com/u/113732409?v=4" width="50" />
         <br />
-        mazenmuhammeed
+        therealmazen
       </a>
     </td>
     <td width="150" align="center">
