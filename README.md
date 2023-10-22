@@ -1701,10 +1701,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/ecomdevstar">
+      <a href="https://github.com/ecomdragona">
         <img src="https://avatars.githubusercontent.com/u/132449304?v=4" width="50" />
         <br />
-        ecomdevstar
+        ecomdragona
       </a>
     </td>
   </tr><tr>
