@@ -7908,10 +7908,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/MatheusHG94">
+      <a href="https://github.com/matheushg94">
         <img src="https://avatars.githubusercontent.com/u/110701923?v=4" width="50" />
         <br />
-        MatheusHG94
+        matheushg94
       </a>
     </td>
     <td width="150" align="center">
