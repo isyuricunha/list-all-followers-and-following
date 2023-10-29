@@ -40178,10 +40178,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/KravitzMC">
+      <a href="https://github.com/battlerealmsmodeditor">
         <img src="https://avatars.githubusercontent.com/u/6524613?v=4" width="50" />
         <br />
-        KravitzMC
+        battlerealmsmodeditor
       </a>
     </td>
     <td width="150" align="center">
