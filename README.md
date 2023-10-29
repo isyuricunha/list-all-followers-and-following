@@ -23381,10 +23381,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/altynbek-y">
+      <a href="https://github.com/namideus">
         <img src="https://avatars.githubusercontent.com/u/70685477?v=4" width="50" />
         <br />
-        altynbek-y
+        namideus
       </a>
     </td>
     <td width="150" align="center">
