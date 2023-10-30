@@ -413,10 +413,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/CryptoNinja0617">
+      <a href="https://github.com/CryptoNinja1210">
         <img src="https://avatars.githubusercontent.com/u/140342687?v=4" width="50" />
         <br />
-        CryptoNinja0617
+        CryptoNinja1210
       </a>
     </td>
     <td width="150" align="center">
