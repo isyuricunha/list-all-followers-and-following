@@ -21674,10 +21674,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/mehrdaddjavdi">
+      <a href="https://github.com/mehrdaddjavadi">
         <img src="https://avatars.githubusercontent.com/u/75909976?v=4" width="50" />
         <br />
-        mehrdaddjavdi
+        mehrdaddjavadi
       </a>
     </td>
     <td width="150" align="center">
