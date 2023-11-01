@@ -10089,10 +10089,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/rails-staff">
+      <a href="https://github.com/kderk">
         <img src="https://avatars.githubusercontent.com/u/105329519?v=4" width="50" />
         <br />
-        rails-staff
+        kderk
       </a>
     </td>
   </tr><tr>
