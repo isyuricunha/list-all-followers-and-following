@@ -10,7 +10,7 @@
 
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
-| Yuri Cunha | please don't just say "hello" in my dms, or be prepared to be ignored | [links.yuricunha.com/](https://links.yuricunha.com/) | Brazil | - |
+| Yuri Cunha | please don't just say "hello" in my dms, or be prepared to be ignored | [yuricunha.com](https://yuricunha.com) | Brazil | - |
 
 ## Followers <kbd>5786</kbd>
 
