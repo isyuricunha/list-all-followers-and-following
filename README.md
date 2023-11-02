@@ -384,10 +384,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/kansshsj">
+      <a href="https://github.com/eugeniz">
         <img src="https://avatars.githubusercontent.com/u/140732310?v=4" width="50" />
         <br />
-        kansshsj
+        eugeniz
       </a>
     </td>
     <td width="150" align="center">
