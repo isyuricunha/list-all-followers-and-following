@@ -31049,10 +31049,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/zona-antifascista">
+      <a href="https://github.com/free-palestine161">
         <img src="https://avatars.githubusercontent.com/u/46828715?v=4" width="50" />
         <br />
-        zona-antifascista
+        free-palestine161
       </a>
     </td>
     <td width="150" align="center">
