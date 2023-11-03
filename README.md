@@ -1759,10 +1759,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/byteslinger00">
+      <a href="https://github.com/byteslinger0813">
         <img src="https://avatars.githubusercontent.com/u/132208831?v=4" width="50" />
         <br />
-        byteslinger00
+        byteslinger0813
       </a>
     </td>
     <td width="150" align="center">
