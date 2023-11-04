@@ -37176,10 +37176,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/xiosky90">
+      <a href="https://github.com/oleksiimikhno">
         <img src="https://avatars.githubusercontent.com/u/20929709?v=4" width="50" />
         <br />
-        xiosky90
+        oleksiimikhno
       </a>
     </td>
     <td width="150" align="center">
