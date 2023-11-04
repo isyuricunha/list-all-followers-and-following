@@ -28025,10 +28025,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/ninjakzar">
+      <a href="https://github.com/kzarmax">
         <img src="https://avatars.githubusercontent.com/u/56865797?v=4" width="50" />
         <br />
-        ninjakzar
+        kzarmax
       </a>
     </td>
     <td width="150" align="center">
