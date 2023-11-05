@@ -6799,10 +6799,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/LilDrippyMyFnf">
+      <a href="https://github.com/myffs">
         <img src="https://avatars.githubusercontent.com/u/113801267?v=4" width="50" />
         <br />
-        LilDrippyMyFnf
+        myffs
       </a>
     </td>
     <td width="150" align="center">
