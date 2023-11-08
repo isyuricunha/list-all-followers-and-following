@@ -6410,10 +6410,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/xkas01">
+      <a href="https://github.com/abdu11aev-samandar">
         <img src="https://avatars.githubusercontent.com/u/114675741?v=4" width="50" />
         <br />
-        xkas01
+        abdu11aev-samandar
       </a>
     </td>
     <td width="150" align="center">
