@@ -7829,10 +7829,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/J1NX208">
+      <a href="https://github.com/gvnnprrzz">
         <img src="https://avatars.githubusercontent.com/u/110848255?v=4" width="50" />
         <br />
-        J1NX208
+        gvnnprrzz
       </a>
     </td>
     <td width="150" align="center">
