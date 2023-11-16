@@ -3746,10 +3746,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Parv-cell">
+      <a href="https://github.com/Parvbird">
         <img src="https://avatars.githubusercontent.com/u/122843056?v=4" width="50" />
         <br />
-        Parv-cell
+        Parvbird
       </a>
     </td>
     <td width="150" align="center">
