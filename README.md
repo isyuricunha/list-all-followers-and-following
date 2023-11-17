@@ -4661,10 +4661,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/grandcoding">
+      <a href="https://github.com/tech-ninja-lol">
         <img src="https://avatars.githubusercontent.com/u/119789975?v=4" width="50" />
         <br />
-        grandcoding
+        tech-ninja-lol
       </a>
     </td>
     <td width="150" align="center">
