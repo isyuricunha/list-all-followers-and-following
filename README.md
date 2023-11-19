@@ -3379,10 +3379,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/RoadToFrontendDev">
+      <a href="https://github.com/Roadtogolangdev">
         <img src="https://avatars.githubusercontent.com/u/124212471?v=4" width="50" />
         <br />
-        RoadToFrontendDev
+        Roadtogolangdev
       </a>
     </td>
     <td width="150" align="center">
