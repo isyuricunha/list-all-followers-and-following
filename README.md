@@ -30919,10 +30919,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/free-palestine161">
+      <a href="https://github.com/good-night-white-pride">
         <img src="https://avatars.githubusercontent.com/u/46828715?v=4" width="50" />
         <br />
-        free-palestine161
+        good-night-white-pride
       </a>
     </td>
     <td width="150" align="center">
