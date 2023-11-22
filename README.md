@@ -12,7 +12,7 @@
 | -- | -- | -- | -- | -- |
 | Yuri Cunha | please don't just say "hello" in my dms, or be prepared to be ignored | [yuricunha.com](https://yuricunha.com) | Brazil | - |
 
-## Followers <kbd>5754</kbd>
+## Followers <kbd>5753</kbd>
 
 <table>
   <tr>
@@ -41438,11 +41438,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/georgeguimaraes">
-        <img src="https://avatars.githubusercontent.com/u/2929?v=4" width="50" />
-        <br />
-        georgeguimaraes
-      </a>
     </td>
     <td width="150" align="center">
     </td>
