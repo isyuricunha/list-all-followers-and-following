@@ -37485,10 +37485,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/luckydev1111">
+      <a href="https://github.com/trevioncannon">
         <img src="https://avatars.githubusercontent.com/u/19288394?v=4" width="50" />
         <br />
-        luckydev1111
+        trevioncannon
       </a>
     </td>
   </tr><tr>
