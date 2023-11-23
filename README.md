@@ -39890,10 +39890,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/G-rizz">
+      <a href="https://github.com/ConradPB">
         <img src="https://avatars.githubusercontent.com/u/6654866?v=4" width="50" />
         <br />
-        G-rizz
+        ConradPB
       </a>
     </td>
     <td width="150" align="center">
