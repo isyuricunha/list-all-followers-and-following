@@ -41305,7 +41305,7 @@
   </tr>
 </table>
 
-## Following <kbd>295</kbd>
+## Following <kbd>313</kbd>
 
 <table>
   <tr>
@@ -43431,6 +43431,140 @@
         <br />
         xshifty
       </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/heyzooi">
+        <img src="https://avatars.githubusercontent.com/u/600503?v=4" width="50" />
+        <br />
+        heyzooi
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/denilsoncamara">
+        <img src="https://avatars.githubusercontent.com/u/602048?v=4" width="50" />
+        <br />
+        denilsoncamara
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/brunnooliveira">
+        <img src="https://avatars.githubusercontent.com/u/602170?v=4" width="50" />
+        <br />
+        brunnooliveira
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/rbezerra">
+        <img src="https://avatars.githubusercontent.com/u/605199?v=4" width="50" />
+        <br />
+        rbezerra
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/rafaelstz">
+        <img src="https://avatars.githubusercontent.com/u/610598?v=4" width="50" />
+        <br />
+        rafaelstz
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/blude">
+        <img src="https://avatars.githubusercontent.com/u/616018?v=4" width="50" />
+        <br />
+        blude
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/lfzaltron">
+        <img src="https://avatars.githubusercontent.com/u/617383?v=4" width="50" />
+        <br />
+        lfzaltron
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/neyvo">
+        <img src="https://avatars.githubusercontent.com/u/617599?v=4" width="50" />
+        <br />
+        neyvo
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/gzamboni">
+        <img src="https://avatars.githubusercontent.com/u/617715?v=4" width="50" />
+        <br />
+        gzamboni
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/brunolemos">
+        <img src="https://avatars.githubusercontent.com/u/619186?v=4" width="50" />
+        <br />
+        brunolemos
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/stephencamilo">
+        <img src="https://avatars.githubusercontent.com/u/619543?v=4" width="50" />
+        <br />
+        stephencamilo
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/alexvenceslau">
+        <img src="https://avatars.githubusercontent.com/u/621677?v=4" width="50" />
+        <br />
+        alexvenceslau
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/danilok">
+        <img src="https://avatars.githubusercontent.com/u/624381?v=4" width="50" />
+        <br />
+        danilok
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/luizvieira">
+        <img src="https://avatars.githubusercontent.com/u/625482?v=4" width="50" />
+        <br />
+        luizvieira
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/olavomello">
+        <img src="https://avatars.githubusercontent.com/u/640081?v=4" width="50" />
+        <br />
+        olavomello
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/adityamenon">
+        <img src="https://avatars.githubusercontent.com/u/640815?v=4" width="50" />
+        <br />
+        adityamenon
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/eliseumds">
+        <img src="https://avatars.githubusercontent.com/u/640840?v=4" width="50" />
+        <br />
+        eliseumds
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/abraaojunior">
+        <img src="https://avatars.githubusercontent.com/u/640849?v=4" width="50" />
+        <br />
+        abraaojunior
+      </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
