@@ -41310,7 +41310,7 @@
   </tr>
 </table>
 
-## Following <kbd>57</kbd>
+## Following <kbd>74</kbd>
 
 <table>
   <tr>
@@ -41725,8 +41725,126 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/pixies">
+        <img src="https://avatars.githubusercontent.com/u/101561?v=4" width="50" />
+        <br />
+        pixies
+      </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/tuliofaria">
+        <img src="https://avatars.githubusercontent.com/u/103433?v=4" width="50" />
+        <br />
+        tuliofaria
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/dublado">
+        <img src="https://avatars.githubusercontent.com/u/104500?v=4" width="50" />
+        <br />
+        dublado
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/paulopatto">
+        <img src="https://avatars.githubusercontent.com/u/105045?v=4" width="50" />
+        <br />
+        paulopatto
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/fabiotnt">
+        <img src="https://avatars.githubusercontent.com/u/107305?v=4" width="50" />
+        <br />
+        fabiotnt
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/alexmsilva">
+        <img src="https://avatars.githubusercontent.com/u/110240?v=4" width="50" />
+        <br />
+        alexmsilva
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/cogumm">
+        <img src="https://avatars.githubusercontent.com/u/113603?v=4" width="50" />
+        <br />
+        cogumm
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/dvinciguerra">
+        <img src="https://avatars.githubusercontent.com/u/114177?v=4" width="50" />
+        <br />
+        dvinciguerra
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/diogorosanelli">
+        <img src="https://avatars.githubusercontent.com/u/115076?v=4" width="50" />
+        <br />
+        diogorosanelli
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/raphaelbh">
+        <img src="https://avatars.githubusercontent.com/u/119721?v=4" width="50" />
+        <br />
+        raphaelbh
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/franciosi">
+        <img src="https://avatars.githubusercontent.com/u/123564?v=4" width="50" />
+        <br />
+        franciosi
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/humbhenri">
+        <img src="https://avatars.githubusercontent.com/u/126303?v=4" width="50" />
+        <br />
+        humbhenri
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/pprogrammer">
+        <img src="https://avatars.githubusercontent.com/u/127685?v=4" width="50" />
+        <br />
+        pprogrammer
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/endel">
+        <img src="https://avatars.githubusercontent.com/u/130494?v=4" width="50" />
+        <br />
+        endel
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/petrybr">
+        <img src="https://avatars.githubusercontent.com/u/131034?v=4" width="50" />
+        <br />
+        petrybr
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/filipechagas">
+        <img src="https://avatars.githubusercontent.com/u/131353?v=4" width="50" />
+        <br />
+        filipechagas
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/gastaoss">
+        <img src="https://avatars.githubusercontent.com/u/131740?v=4" width="50" />
+        <br />
+        gastaoss
+      </a>
     </td>
     <td width="150" align="center">
     </td>
