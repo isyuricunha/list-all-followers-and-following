@@ -41305,7 +41305,7 @@
   </tr>
 </table>
 
-## Following <kbd>487</kbd>
+## Following <kbd>504</kbd>
 
 <table>
   <tr>
@@ -44816,8 +44816,126 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/marcelodeandrade">
+        <img src="https://avatars.githubusercontent.com/u/1028425?v=4" width="50" />
+        <br />
+        marcelodeandrade
+      </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/aniltonjunior">
+        <img src="https://avatars.githubusercontent.com/u/1028576?v=4" width="50" />
+        <br />
+        aniltonjunior
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/gabrielbidula">
+        <img src="https://avatars.githubusercontent.com/u/1028654?v=4" width="50" />
+        <br />
+        gabrielbidula
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/rennan">
+        <img src="https://avatars.githubusercontent.com/u/1029822?v=4" width="50" />
+        <br />
+        rennan
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/brunossn">
+        <img src="https://avatars.githubusercontent.com/u/1033649?v=4" width="50" />
+        <br />
+        brunossn
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/leandrodma">
+        <img src="https://avatars.githubusercontent.com/u/1036948?v=4" width="50" />
+        <br />
+        leandrodma
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/elissonmichael">
+        <img src="https://avatars.githubusercontent.com/u/1037192?v=4" width="50" />
+        <br />
+        elissonmichael
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/vitorsilverio">
+        <img src="https://avatars.githubusercontent.com/u/1039503?v=4" width="50" />
+        <br />
+        vitorsilverio
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/leandrofinger">
+        <img src="https://avatars.githubusercontent.com/u/1041202?v=4" width="50" />
+        <br />
+        leandrofinger
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/eltonoliveira">
+        <img src="https://avatars.githubusercontent.com/u/1041884?v=4" width="50" />
+        <br />
+        eltonoliveira
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/hullen">
+        <img src="https://avatars.githubusercontent.com/u/1043445?v=4" width="50" />
+        <br />
+        hullen
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/aryrabelo">
+        <img src="https://avatars.githubusercontent.com/u/1046087?v=4" width="50" />
+        <br />
+        aryrabelo
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/danielpavone">
+        <img src="https://avatars.githubusercontent.com/u/1047121?v=4" width="50" />
+        <br />
+        danielpavone
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/lazarojcs">
+        <img src="https://avatars.githubusercontent.com/u/1051658?v=4" width="50" />
+        <br />
+        lazarojcs
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/mauraodev">
+        <img src="https://avatars.githubusercontent.com/u/1053242?v=4" width="50" />
+        <br />
+        mauraodev
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/bouli">
+        <img src="https://avatars.githubusercontent.com/u/1053375?v=4" width="50" />
+        <br />
+        bouli
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/lluccia">
+        <img src="https://avatars.githubusercontent.com/u/1053559?v=4" width="50" />
+        <br />
+        lluccia
+      </a>
     </td>
     <td width="150" align="center">
     </td>
