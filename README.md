@@ -41305,7 +41305,7 @@
   </tr>
 </table>
 
-## Following <kbd>504</kbd>
+## Following <kbd>521</kbd>
 
 <table>
   <tr>
@@ -44936,6 +44936,135 @@
         <br />
         lluccia
       </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/mariazevedo88">
+        <img src="https://avatars.githubusercontent.com/u/1054867?v=4" width="50" />
+        <br />
+        mariazevedo88
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/mabreu87">
+        <img src="https://avatars.githubusercontent.com/u/1055861?v=4" width="50" />
+        <br />
+        mabreu87
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/elisongomes">
+        <img src="https://avatars.githubusercontent.com/u/1057267?v=4" width="50" />
+        <br />
+        elisongomes
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/suli3">
+        <img src="https://avatars.githubusercontent.com/u/1057425?v=4" width="50" />
+        <br />
+        suli3
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/valdirmendesdev">
+        <img src="https://avatars.githubusercontent.com/u/1057524?v=4" width="50" />
+        <br />
+        valdirmendesdev
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/thiagossdev">
+        <img src="https://avatars.githubusercontent.com/u/1059071?v=4" width="50" />
+        <br />
+        thiagossdev
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/eduardoabpereira">
+        <img src="https://avatars.githubusercontent.com/u/1059380?v=4" width="50" />
+        <br />
+        eduardoabpereira
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/diegurm">
+        <img src="https://avatars.githubusercontent.com/u/1062248?v=4" width="50" />
+        <br />
+        diegurm
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/mauriciomedeiros">
+        <img src="https://avatars.githubusercontent.com/u/1067852?v=4" width="50" />
+        <br />
+        mauriciomedeiros
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/bjverde">
+        <img src="https://avatars.githubusercontent.com/u/1070062?v=4" width="50" />
+        <br />
+        bjverde
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/edrdesigner">
+        <img src="https://avatars.githubusercontent.com/u/1071021?v=4" width="50" />
+        <br />
+        edrdesigner
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/israelcena">
+        <img src="https://avatars.githubusercontent.com/u/1072865?v=4" width="50" />
+        <br />
+        israelcena
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/eurushibata">
+        <img src="https://avatars.githubusercontent.com/u/1073093?v=4" width="50" />
+        <br />
+        eurushibata
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/adsqueiroz">
+        <img src="https://avatars.githubusercontent.com/u/1073678?v=4" width="50" />
+        <br />
+        adsqueiroz
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/gitalexcampos">
+        <img src="https://avatars.githubusercontent.com/u/1080865?v=4" width="50" />
+        <br />
+        gitalexcampos
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/passocurto">
+        <img src="https://avatars.githubusercontent.com/u/1081320?v=4" width="50" />
+        <br />
+        passocurto
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/ricardo-a-mendes">
+        <img src="https://avatars.githubusercontent.com/u/1083862?v=4" width="50" />
+        <br />
+        ricardo-a-mendes
+      </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
