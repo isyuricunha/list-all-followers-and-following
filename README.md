@@ -41326,7 +41326,7 @@
   </tr>
 </table>
 
-## Following <kbd>2597</kbd>
+## Following <kbd>2599</kbd>
 
 <table>
   <tr>
@@ -60029,8 +60029,18 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/RaphaelMacedonio">
+        <img src="https://avatars.githubusercontent.com/u/7528596?v=4" width="50" />
+        <br />
+        RaphaelMacedonio
+      </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/frimes">
+        <img src="https://avatars.githubusercontent.com/u/7529389?v=4" width="50" />
+        <br />
+        frimes
+      </a>
     </td>
     <td width="150" align="center">
     </td>
