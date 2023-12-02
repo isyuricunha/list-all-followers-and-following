@@ -41310,7 +41310,7 @@
   </tr>
 </table>
 
-## Following <kbd>1582</kbd>
+## Following <kbd>1599</kbd>
 
 <table>
   <tr>
@@ -52705,8 +52705,126 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/bernardo-bruning">
+        <img src="https://avatars.githubusercontent.com/u/4602873?v=4" width="50" />
+        <br />
+        bernardo-bruning
+      </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/joaonart">
+        <img src="https://avatars.githubusercontent.com/u/4604141?v=4" width="50" />
+        <br />
+        joaonart
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/g3luka">
+        <img src="https://avatars.githubusercontent.com/u/4605159?v=4" width="50" />
+        <br />
+        g3luka
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/sheldonled">
+        <img src="https://avatars.githubusercontent.com/u/4605513?v=4" width="50" />
+        <br />
+        sheldonled
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/h6oj4r">
+        <img src="https://avatars.githubusercontent.com/u/4615897?v=4" width="50" />
+        <br />
+        h6oj4r
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/ptrindade">
+        <img src="https://avatars.githubusercontent.com/u/4616817?v=4" width="50" />
+        <br />
+        ptrindade
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/olnsbr">
+        <img src="https://avatars.githubusercontent.com/u/4616893?v=4" width="50" />
+        <br />
+        olnsbr
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/capaci">
+        <img src="https://avatars.githubusercontent.com/u/4624073?v=4" width="50" />
+        <br />
+        capaci
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/vitorpaixao">
+        <img src="https://avatars.githubusercontent.com/u/4624103?v=4" width="50" />
+        <br />
+        vitorpaixao
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Magicianred">
+        <img src="https://avatars.githubusercontent.com/u/4624113?v=4" width="50" />
+        <br />
+        Magicianred
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/gustavares">
+        <img src="https://avatars.githubusercontent.com/u/4625862?v=4" width="50" />
+        <br />
+        gustavares
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/rogeraleite">
+        <img src="https://avatars.githubusercontent.com/u/4632436?v=4" width="50" />
+        <br />
+        rogeraleite
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/MModenaDev">
+        <img src="https://avatars.githubusercontent.com/u/4632803?v=4" width="50" />
+        <br />
+        MModenaDev
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/GIlbertoDomingues">
+        <img src="https://avatars.githubusercontent.com/u/4634238?v=4" width="50" />
+        <br />
+        GIlbertoDomingues
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/robilemos89">
+        <img src="https://avatars.githubusercontent.com/u/4635805?v=4" width="50" />
+        <br />
+        robilemos89
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/maviei">
+        <img src="https://avatars.githubusercontent.com/u/4642264?v=4" width="50" />
+        <br />
+        maviei
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/iagofrota">
+        <img src="https://avatars.githubusercontent.com/u/4643321?v=4" width="50" />
+        <br />
+        iagofrota
+      </a>
     </td>
     <td width="150" align="center">
     </td>
