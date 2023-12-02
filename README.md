@@ -41310,7 +41310,7 @@
   </tr>
 </table>
 
-## Following <kbd>2210</kbd>
+## Following <kbd>2227</kbd>
 
 <table>
   <tr>
@@ -57224,6 +57224,135 @@
         <br />
         Gleider
       </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/garciawell">
+        <img src="https://avatars.githubusercontent.com/u/6412999?v=4" width="50" />
+        <br />
+        garciawell
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/mvcf10">
+        <img src="https://avatars.githubusercontent.com/u/6420805?v=4" width="50" />
+        <br />
+        mvcf10
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/brunotassis">
+        <img src="https://avatars.githubusercontent.com/u/6423154?v=4" width="50" />
+        <br />
+        brunotassis
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/vinihiga">
+        <img src="https://avatars.githubusercontent.com/u/6425473?v=4" width="50" />
+        <br />
+        vinihiga
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Fredbnm">
+        <img src="https://avatars.githubusercontent.com/u/6428416?v=4" width="50" />
+        <br />
+        Fredbnm
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/matheusfrancisco">
+        <img src="https://avatars.githubusercontent.com/u/6428732?v=4" width="50" />
+        <br />
+        matheusfrancisco
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/nathan-ramos">
+        <img src="https://avatars.githubusercontent.com/u/6431327?v=4" width="50" />
+        <br />
+        nathan-ramos
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/joycesoares">
+        <img src="https://avatars.githubusercontent.com/u/6441724?v=4" width="50" />
+        <br />
+        joycesoares
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/jonasbarbosa">
+        <img src="https://avatars.githubusercontent.com/u/6450589?v=4" width="50" />
+        <br />
+        jonasbarbosa
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/marqueslu">
+        <img src="https://avatars.githubusercontent.com/u/6452198?v=4" width="50" />
+        <br />
+        marqueslu
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/jeffersondanielss">
+        <img src="https://avatars.githubusercontent.com/u/6460622?v=4" width="50" />
+        <br />
+        jeffersondanielss
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/prescindivel">
+        <img src="https://avatars.githubusercontent.com/u/6462673?v=4" width="50" />
+        <br />
+        prescindivel
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/renanramos">
+        <img src="https://avatars.githubusercontent.com/u/6463865?v=4" width="50" />
+        <br />
+        renanramos
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/TsplayerT">
+        <img src="https://avatars.githubusercontent.com/u/6465230?v=4" width="50" />
+        <br />
+        TsplayerT
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/xandaocarelli">
+        <img src="https://avatars.githubusercontent.com/u/6465697?v=4" width="50" />
+        <br />
+        xandaocarelli
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/Wellington01">
+        <img src="https://avatars.githubusercontent.com/u/6466266?v=4" width="50" />
+        <br />
+        Wellington01
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/movanelli">
+        <img src="https://avatars.githubusercontent.com/u/6470574?v=4" width="50" />
+        <br />
+        movanelli
+      </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
