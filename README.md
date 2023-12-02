@@ -41331,7 +41331,7 @@
   </tr>
 </table>
 
-## Following <kbd>2671</kbd>
+## Following <kbd>2688</kbd>
 
 <table>
   <tr>
@@ -60567,8 +60567,126 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/pdelfino">
+        <img src="https://avatars.githubusercontent.com/u/7698207?v=4" width="50" />
+        <br />
+        pdelfino
+      </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/thiagofranchin">
+        <img src="https://avatars.githubusercontent.com/u/7700630?v=4" width="50" />
+        <br />
+        thiagofranchin
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/greisson182">
+        <img src="https://avatars.githubusercontent.com/u/7702862?v=4" width="50" />
+        <br />
+        greisson182
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/matheushahnn">
+        <img src="https://avatars.githubusercontent.com/u/7703431?v=4" width="50" />
+        <br />
+        matheushahnn
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/ricagurgel">
+        <img src="https://avatars.githubusercontent.com/u/7705137?v=4" width="50" />
+        <br />
+        ricagurgel
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/rafiuske">
+        <img src="https://avatars.githubusercontent.com/u/7706923?v=4" width="50" />
+        <br />
+        rafiuske
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/z-fab">
+        <img src="https://avatars.githubusercontent.com/u/7714513?v=4" width="50" />
+        <br />
+        z-fab
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/williamjesusdev">
+        <img src="https://avatars.githubusercontent.com/u/7726379?v=4" width="50" />
+        <br />
+        williamjesusdev
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Wgleyberton">
+        <img src="https://avatars.githubusercontent.com/u/7738090?v=4" width="50" />
+        <br />
+        Wgleyberton
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/alissonmarqui">
+        <img src="https://avatars.githubusercontent.com/u/7746803?v=4" width="50" />
+        <br />
+        alissonmarqui
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/belmirojr">
+        <img src="https://avatars.githubusercontent.com/u/7750330?v=4" width="50" />
+        <br />
+        belmirojr
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/brunohauck">
+        <img src="https://avatars.githubusercontent.com/u/7753598?v=4" width="50" />
+        <br />
+        brunohauck
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/victorgiraldes">
+        <img src="https://avatars.githubusercontent.com/u/7756273?v=4" width="50" />
+        <br />
+        victorgiraldes
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/karinamahi">
+        <img src="https://avatars.githubusercontent.com/u/7763618?v=4" width="50" />
+        <br />
+        karinamahi
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/felipesflisboa">
+        <img src="https://avatars.githubusercontent.com/u/7763691?v=4" width="50" />
+        <br />
+        felipesflisboa
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/japbastos">
+        <img src="https://avatars.githubusercontent.com/u/7764204?v=4" width="50" />
+        <br />
+        japbastos
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/henriquerick">
+        <img src="https://avatars.githubusercontent.com/u/7768111?v=4" width="50" />
+        <br />
+        henriquerick
+      </a>
     </td>
     <td width="150" align="center">
     </td>
