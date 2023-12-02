@@ -41326,7 +41326,7 @@
   </tr>
 </table>
 
-## Following <kbd>3710</kbd>
+## Following <kbd>3727</kbd>
 
 <table>
   <tr>
@@ -68040,6 +68040,135 @@
         <br />
         dyganar
       </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/danielcr10">
+        <img src="https://avatars.githubusercontent.com/u/11623016?v=4" width="50" />
+        <br />
+        danielcr10
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/psylinux">
+        <img src="https://avatars.githubusercontent.com/u/11630015?v=4" width="50" />
+        <br />
+        psylinux
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/joao-felipe-bn">
+        <img src="https://avatars.githubusercontent.com/u/11631772?v=4" width="50" />
+        <br />
+        joao-felipe-bn
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/lin-br">
+        <img src="https://avatars.githubusercontent.com/u/11632767?v=4" width="50" />
+        <br />
+        lin-br
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/rzeradev">
+        <img src="https://avatars.githubusercontent.com/u/11634143?v=4" width="50" />
+        <br />
+        rzeradev
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/joohnsro">
+        <img src="https://avatars.githubusercontent.com/u/11636289?v=4" width="50" />
+        <br />
+        joohnsro
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/evertoncastro">
+        <img src="https://avatars.githubusercontent.com/u/11640028?v=4" width="50" />
+        <br />
+        evertoncastro
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/simonelopess">
+        <img src="https://avatars.githubusercontent.com/u/11641279?v=4" width="50" />
+        <br />
+        simonelopess
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/ziguifrido">
+        <img src="https://avatars.githubusercontent.com/u/11647315?v=4" width="50" />
+        <br />
+        ziguifrido
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/FelipeM920">
+        <img src="https://avatars.githubusercontent.com/u/11648384?v=4" width="50" />
+        <br />
+        FelipeM920
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/jonatasgs7">
+        <img src="https://avatars.githubusercontent.com/u/11649040?v=4" width="50" />
+        <br />
+        jonatasgs7
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/diegodulval">
+        <img src="https://avatars.githubusercontent.com/u/11650796?v=4" width="50" />
+        <br />
+        diegodulval
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/sebastrogers">
+        <img src="https://avatars.githubusercontent.com/u/11651414?v=4" width="50" />
+        <br />
+        sebastrogers
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/acgoularthub">
+        <img src="https://avatars.githubusercontent.com/u/11652136?v=4" width="50" />
+        <br />
+        acgoularthub
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/art-carnieto">
+        <img src="https://avatars.githubusercontent.com/u/11653996?v=4" width="50" />
+        <br />
+        art-carnieto
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/JCSehnen">
+        <img src="https://avatars.githubusercontent.com/u/11655820?v=4" width="50" />
+        <br />
+        JCSehnen
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/karloskelvinsantos">
+        <img src="https://avatars.githubusercontent.com/u/11656558?v=4" width="50" />
+        <br />
+        karloskelvinsantos
+      </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
