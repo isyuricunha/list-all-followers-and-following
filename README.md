@@ -41331,7 +41331,7 @@
   </tr>
 </table>
 
-## Following <kbd>2906</kbd>
+## Following <kbd>2923</kbd>
 
 <table>
   <tr>
@@ -62259,8 +62259,126 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/dbx0">
+        <img src="https://avatars.githubusercontent.com/u/8405956?v=4" width="50" />
+        <br />
+        dbx0
+      </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/cdfortes">
+        <img src="https://avatars.githubusercontent.com/u/8411016?v=4" width="50" />
+        <br />
+        cdfortes
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/marciogit">
+        <img src="https://avatars.githubusercontent.com/u/8413233?v=4" width="50" />
+        <br />
+        marciogit
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/diegochagas">
+        <img src="https://avatars.githubusercontent.com/u/8418850?v=4" width="50" />
+        <br />
+        diegochagas
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/jardelnz">
+        <img src="https://avatars.githubusercontent.com/u/8428445?v=4" width="50" />
+        <br />
+        jardelnz
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/marcelolemes">
+        <img src="https://avatars.githubusercontent.com/u/8428918?v=4" width="50" />
+        <br />
+        marcelolemes
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/LucasMW">
+        <img src="https://avatars.githubusercontent.com/u/8429832?v=4" width="50" />
+        <br />
+        LucasMW
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/JanielTertuliano">
+        <img src="https://avatars.githubusercontent.com/u/8432233?v=4" width="50" />
+        <br />
+        JanielTertuliano
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/gitcarlosandrade">
+        <img src="https://avatars.githubusercontent.com/u/8440788?v=4" width="50" />
+        <br />
+        gitcarlosandrade
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/rian-io">
+        <img src="https://avatars.githubusercontent.com/u/8448141?v=4" width="50" />
+        <br />
+        rian-io
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/rubenmarcus">
+        <img src="https://avatars.githubusercontent.com/u/8454267?v=4" width="50" />
+        <br />
+        rubenmarcus
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/italoiz">
+        <img src="https://avatars.githubusercontent.com/u/8454560?v=4" width="50" />
+        <br />
+        italoiz
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/hugomesquita-dev">
+        <img src="https://avatars.githubusercontent.com/u/8460745?v=4" width="50" />
+        <br />
+        hugomesquita-dev
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/aguedes2">
+        <img src="https://avatars.githubusercontent.com/u/8462723?v=4" width="50" />
+        <br />
+        aguedes2
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/andresousatech">
+        <img src="https://avatars.githubusercontent.com/u/8466261?v=4" width="50" />
+        <br />
+        andresousatech
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/cyprianogarcia">
+        <img src="https://avatars.githubusercontent.com/u/8466522?v=4" width="50" />
+        <br />
+        cyprianogarcia
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/brunocrocomo">
+        <img src="https://avatars.githubusercontent.com/u/8473672?v=4" width="50" />
+        <br />
+        brunocrocomo
+      </a>
     </td>
     <td width="150" align="center">
     </td>
