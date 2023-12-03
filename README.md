@@ -41336,7 +41336,7 @@
   </tr>
 </table>
 
-## Following <kbd>6257</kbd>
+## Following <kbd>6276</kbd>
 
 <table>
   <tr>
@@ -86389,6 +86389,145 @@
         <br />
         lucasgandolfi
       </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/jvvppereira">
+        <img src="https://avatars.githubusercontent.com/u/20956133?v=4" width="50" />
+        <br />
+        jvvppereira
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/CodifyBrazil">
+        <img src="https://avatars.githubusercontent.com/u/20958795?v=4" width="50" />
+        <br />
+        CodifyBrazil
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/luanwma">
+        <img src="https://avatars.githubusercontent.com/u/20958996?v=4" width="50" />
+        <br />
+        luanwma
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/JoaoPirolo">
+        <img src="https://avatars.githubusercontent.com/u/20959067?v=4" width="50" />
+        <br />
+        JoaoPirolo
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/rafatrinity">
+        <img src="https://avatars.githubusercontent.com/u/20962670?v=4" width="50" />
+        <br />
+        rafatrinity
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/prihissung">
+        <img src="https://avatars.githubusercontent.com/u/20972835?v=4" width="50" />
+        <br />
+        prihissung
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/raphaelbsr">
+        <img src="https://avatars.githubusercontent.com/u/20974083?v=4" width="50" />
+        <br />
+        raphaelbsr
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Lukasdias">
+        <img src="https://avatars.githubusercontent.com/u/20982029?v=4" width="50" />
+        <br />
+        Lukasdias
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/Danarvelini">
+        <img src="https://avatars.githubusercontent.com/u/20982207?v=4" width="50" />
+        <br />
+        Danarvelini
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/deutschcaicara">
+        <img src="https://avatars.githubusercontent.com/u/20989599?v=4" width="50" />
+        <br />
+        deutschcaicara
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/lucasmortoni">
+        <img src="https://avatars.githubusercontent.com/u/20991871?v=4" width="50" />
+        <br />
+        lucasmortoni
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/gustavoSoriano">
+        <img src="https://avatars.githubusercontent.com/u/20995835?v=4" width="50" />
+        <br />
+        gustavoSoriano
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/evaldojr97">
+        <img src="https://avatars.githubusercontent.com/u/21000310?v=4" width="50" />
+        <br />
+        evaldojr97
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/andreguigo">
+        <img src="https://avatars.githubusercontent.com/u/21010815?v=4" width="50" />
+        <br />
+        andreguigo
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/wrafacho">
+        <img src="https://avatars.githubusercontent.com/u/21011792?v=4" width="50" />
+        <br />
+        wrafacho
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/higodev">
+        <img src="https://avatars.githubusercontent.com/u/21011857?v=4" width="50" />
+        <br />
+        higodev
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/TTreter">
+        <img src="https://avatars.githubusercontent.com/u/21012897?v=4" width="50" />
+        <br />
+        TTreter
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/bbranjoss">
+        <img src="https://avatars.githubusercontent.com/u/21015886?v=4" width="50" />
+        <br />
+        bbranjoss
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/aewinformatica">
+        <img src="https://avatars.githubusercontent.com/u/21016016?v=4" width="50" />
+        <br />
+        aewinformatica
+      </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
