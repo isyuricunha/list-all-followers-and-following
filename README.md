@@ -41331,7 +41331,7 @@
   </tr>
 </table>
 
-## Following <kbd>5592</kbd>
+## Following <kbd>5594</kbd>
 
 <table>
   <tr>
@@ -81598,8 +81598,18 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/paulopgss">
+        <img src="https://avatars.githubusercontent.com/u/18484968?v=4" width="50" />
+        <br />
+        paulopgss
+      </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Vbobell">
+        <img src="https://avatars.githubusercontent.com/u/18491867?v=4" width="50" />
+        <br />
+        Vbobell
+      </a>
     </td>
     <td width="150" align="center">
     </td>
