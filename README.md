@@ -41418,7 +41418,7 @@
   </tr>
 </table>
 
-## Following <kbd>8936</kbd>
+## Following <kbd>8940</kbd>
 
 <table>
   <tr>
@@ -105762,12 +105762,32 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/GuilhermeAbacherli">
+        <img src="https://avatars.githubusercontent.com/u/32586058?v=4" width="50" />
+        <br />
+        GuilhermeAbacherli
+      </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Brunokaldas">
+        <img src="https://avatars.githubusercontent.com/u/32596873?v=4" width="50" />
+        <br />
+        Brunokaldas
+      </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/brancs">
+        <img src="https://avatars.githubusercontent.com/u/32602215?v=4" width="50" />
+        <br />
+        brancs
+      </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/anderrodrigo1">
+        <img src="https://avatars.githubusercontent.com/u/32604348?v=4" width="50" />
+        <br />
+        anderrodrigo1
+      </a>
     </td>
   </tr>
 </table>
