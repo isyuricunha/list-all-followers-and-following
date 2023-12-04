@@ -41377,7 +41377,7 @@
   </tr>
 </table>
 
-## Following <kbd>8455</kbd>
+## Following <kbd>8472</kbd>
 
 <table>
   <tr>
@@ -102255,6 +102255,135 @@
         <br />
         FranciscoBBC
       </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/Thalys02">
+        <img src="https://avatars.githubusercontent.com/u/30760452?v=4" width="50" />
+        <br />
+        Thalys02
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/FelipeB0427">
+        <img src="https://avatars.githubusercontent.com/u/30760595?v=4" width="50" />
+        <br />
+        FelipeB0427
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/rod3goh">
+        <img src="https://avatars.githubusercontent.com/u/30764822?v=4" width="50" />
+        <br />
+        rod3goh
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/paulocabraljunior">
+        <img src="https://avatars.githubusercontent.com/u/30778184?v=4" width="50" />
+        <br />
+        paulocabraljunior
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/EduardoSCosta">
+        <img src="https://avatars.githubusercontent.com/u/30778707?v=4" width="50" />
+        <br />
+        EduardoSCosta
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/rafaumeu">
+        <img src="https://avatars.githubusercontent.com/u/30784471?v=4" width="50" />
+        <br />
+        rafaumeu
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/lowliet64">
+        <img src="https://avatars.githubusercontent.com/u/30802810?v=4" width="50" />
+        <br />
+        lowliet64
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Brunoskyy">
+        <img src="https://avatars.githubusercontent.com/u/30808622?v=4" width="50" />
+        <br />
+        Brunoskyy
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/fkwesley">
+        <img src="https://avatars.githubusercontent.com/u/30810813?v=4" width="50" />
+        <br />
+        fkwesley
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/tviniciusilva">
+        <img src="https://avatars.githubusercontent.com/u/30813694?v=4" width="50" />
+        <br />
+        tviniciusilva
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/matheus-ereira">
+        <img src="https://avatars.githubusercontent.com/u/30813769?v=4" width="50" />
+        <br />
+        matheus-ereira
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/jothbc">
+        <img src="https://avatars.githubusercontent.com/u/30815072?v=4" width="50" />
+        <br />
+        jothbc
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/flavio0567">
+        <img src="https://avatars.githubusercontent.com/u/30816078?v=4" width="50" />
+        <br />
+        flavio0567
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/mabner">
+        <img src="https://avatars.githubusercontent.com/u/30819867?v=4" width="50" />
+        <br />
+        mabner
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/MichaelAds">
+        <img src="https://avatars.githubusercontent.com/u/30833118?v=4" width="50" />
+        <br />
+        MichaelAds
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/AlanPoveda">
+        <img src="https://avatars.githubusercontent.com/u/30833143?v=4" width="50" />
+        <br />
+        AlanPoveda
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/rrmesquita">
+        <img src="https://avatars.githubusercontent.com/u/30835404?v=4" width="50" />
+        <br />
+        rrmesquita
+      </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
