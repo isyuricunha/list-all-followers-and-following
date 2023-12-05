@@ -41485,7 +41485,7 @@
   </tr>
 </table>
 
-## Following <kbd>11813</kbd>
+## Following <kbd>11843</kbd>
 
 <table>
   <tr>
@@ -126540,6 +126540,222 @@
         <img src="https://avatars.githubusercontent.com/u/43034666?v=4" width="50" />
         <br />
         igorassilva
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/FeehGb">
+        <img src="https://avatars.githubusercontent.com/u/43045359?v=4" width="50" />
+        <br />
+        FeehGb
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/felipexd1945">
+        <img src="https://avatars.githubusercontent.com/u/43045450?v=4" width="50" />
+        <br />
+        felipexd1945
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/italo-baciliere">
+        <img src="https://avatars.githubusercontent.com/u/43049564?v=4" width="50" />
+        <br />
+        italo-baciliere
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/gacl97">
+        <img src="https://avatars.githubusercontent.com/u/43053386?v=4" width="50" />
+        <br />
+        gacl97
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Jefferson472">
+        <img src="https://avatars.githubusercontent.com/u/43066724?v=4" width="50" />
+        <br />
+        Jefferson472
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/rodrigosuelli">
+        <img src="https://avatars.githubusercontent.com/u/43067894?v=4" width="50" />
+        <br />
+        rodrigosuelli
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/radiegues06">
+        <img src="https://avatars.githubusercontent.com/u/43069559?v=4" width="50" />
+        <br />
+        radiegues06
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/BadPineapple">
+        <img src="https://avatars.githubusercontent.com/u/43070084?v=4" width="50" />
+        <br />
+        BadPineapple
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/phsilva1503">
+        <img src="https://avatars.githubusercontent.com/u/43070901?v=4" width="50" />
+        <br />
+        phsilva1503
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/eduzrdo">
+        <img src="https://avatars.githubusercontent.com/u/43072438?v=4" width="50" />
+        <br />
+        eduzrdo
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/fabriciohenriquesilva">
+        <img src="https://avatars.githubusercontent.com/u/43080818?v=4" width="50" />
+        <br />
+        fabriciohenriquesilva
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/CarlosWiebbelling">
+        <img src="https://avatars.githubusercontent.com/u/43082870?v=4" width="50" />
+        <br />
+        CarlosWiebbelling
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/renatadvrr">
+        <img src="https://avatars.githubusercontent.com/u/43096745?v=4" width="50" />
+        <br />
+        renatadvrr
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/mateusfbsoares">
+        <img src="https://avatars.githubusercontent.com/u/43099047?v=4" width="50" />
+        <br />
+        mateusfbsoares
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/DiegoEmanuel">
+        <img src="https://avatars.githubusercontent.com/u/43099313?v=4" width="50" />
+        <br />
+        DiegoEmanuel
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/guesant">
+        <img src="https://avatars.githubusercontent.com/u/43099880?v=4" width="50" />
+        <br />
+        guesant
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/edielsonalencar">
+        <img src="https://avatars.githubusercontent.com/u/43100504?v=4" width="50" />
+        <br />
+        edielsonalencar
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/Victorcassiano">
+        <img src="https://avatars.githubusercontent.com/u/43105344?v=4" width="50" />
+        <br />
+        Victorcassiano
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/carolpbd">
+        <img src="https://avatars.githubusercontent.com/u/43106712?v=4" width="50" />
+        <br />
+        carolpbd
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/guilhermeddc">
+        <img src="https://avatars.githubusercontent.com/u/43120894?v=4" width="50" />
+        <br />
+        guilhermeddc
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/MaykonMorais">
+        <img src="https://avatars.githubusercontent.com/u/43121724?v=4" width="50" />
+        <br />
+        MaykonMorais
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/acdmAnderson">
+        <img src="https://avatars.githubusercontent.com/u/43121864?v=4" width="50" />
+        <br />
+        acdmAnderson
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/johnlager">
+        <img src="https://avatars.githubusercontent.com/u/43123587?v=4" width="50" />
+        <br />
+        johnlager
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/ericksvaguilar">
+        <img src="https://avatars.githubusercontent.com/u/43142456?v=4" width="50" />
+        <br />
+        ericksvaguilar
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/lpepinelli">
+        <img src="https://avatars.githubusercontent.com/u/43144939?v=4" width="50" />
+        <br />
+        lpepinelli
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/victorhenriqu3">
+        <img src="https://avatars.githubusercontent.com/u/43153097?v=4" width="50" />
+        <br />
+        victorhenriqu3
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/adriangonc">
+        <img src="https://avatars.githubusercontent.com/u/43154885?v=4" width="50" />
+        <br />
+        adriangonc
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/AdriandersonLira">
+        <img src="https://avatars.githubusercontent.com/u/43156311?v=4" width="50" />
+        <br />
+        AdriandersonLira
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/jonaslopesp">
+        <img src="https://avatars.githubusercontent.com/u/43157077?v=4" width="50" />
+        <br />
+        jonaslopesp
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Arturgrr">
+        <img src="https://avatars.githubusercontent.com/u/43157638?v=4" width="50" />
+        <br />
+        Arturgrr
       </a>
     </td>
     <td width="150" align="center">
