@@ -41485,7 +41485,7 @@
   </tr>
 </table>
 
-## Following <kbd>11321</kbd>
+## Following <kbd>11338</kbd>
 
 <table>
   <tr>
@@ -123001,8 +123001,126 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/lcamargo82">
+        <img src="https://avatars.githubusercontent.com/u/41709127?v=4" width="50" />
+        <br />
+        lcamargo82
+      </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/isFernandes">
+        <img src="https://avatars.githubusercontent.com/u/41745075?v=4" width="50" />
+        <br />
+        isFernandes
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Felipe-Moura">
+        <img src="https://avatars.githubusercontent.com/u/41745265?v=4" width="50" />
+        <br />
+        Felipe-Moura
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/sirmarcius">
+        <img src="https://avatars.githubusercontent.com/u/41752122?v=4" width="50" />
+        <br />
+        sirmarcius
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/ijohnnysa">
+        <img src="https://avatars.githubusercontent.com/u/41756547?v=4" width="50" />
+        <br />
+        ijohnnysa
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/maxwmsilva">
+        <img src="https://avatars.githubusercontent.com/u/41756559?v=4" width="50" />
+        <br />
+        maxwmsilva
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/stamatogabriel">
+        <img src="https://avatars.githubusercontent.com/u/41758776?v=4" width="50" />
+        <br />
+        stamatogabriel
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/yanpantoja">
+        <img src="https://avatars.githubusercontent.com/u/41760474?v=4" width="50" />
+        <br />
+        yanpantoja
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/FernandoCMF">
+        <img src="https://avatars.githubusercontent.com/u/41761004?v=4" width="50" />
+        <br />
+        FernandoCMF
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/aloisiomartinez">
+        <img src="https://avatars.githubusercontent.com/u/41764501?v=4" width="50" />
+        <br />
+        aloisiomartinez
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/matheuspuel">
+        <img src="https://avatars.githubusercontent.com/u/41768371?v=4" width="50" />
+        <br />
+        matheuspuel
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/pedrobergamini">
+        <img src="https://avatars.githubusercontent.com/u/41773103?v=4" width="50" />
+        <br />
+        pedrobergamini
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/PatryckSilva">
+        <img src="https://avatars.githubusercontent.com/u/41785386?v=4" width="50" />
+        <br />
+        PatryckSilva
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/samuelcdias">
+        <img src="https://avatars.githubusercontent.com/u/41789017?v=4" width="50" />
+        <br />
+        samuelcdias
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/GiovannyLucas">
+        <img src="https://avatars.githubusercontent.com/u/41789184?v=4" width="50" />
+        <br />
+        GiovannyLucas
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/JeanCremonezzi">
+        <img src="https://avatars.githubusercontent.com/u/41790256?v=4" width="50" />
+        <br />
+        JeanCremonezzi
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/silvioantonio">
+        <img src="https://avatars.githubusercontent.com/u/41794605?v=4" width="50" />
+        <br />
+        silvioantonio
+      </a>
     </td>
     <td width="150" align="center">
     </td>
