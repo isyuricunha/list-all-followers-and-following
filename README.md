@@ -41485,7 +41485,7 @@
   </tr>
 </table>
 
-## Following <kbd>11735</kbd>
+## Following <kbd>11752</kbd>
 
 <table>
   <tr>
@@ -125979,6 +125979,135 @@
         <br />
         caioalarcon
       </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/bqdesigner">
+        <img src="https://avatars.githubusercontent.com/u/42852056?v=4" width="50" />
+        <br />
+        bqdesigner
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/rabispedro">
+        <img src="https://avatars.githubusercontent.com/u/42853022?v=4" width="50" />
+        <br />
+        rabispedro
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/rodrigobarros2">
+        <img src="https://avatars.githubusercontent.com/u/42853150?v=4" width="50" />
+        <br />
+        rodrigobarros2
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/MarlusVLC">
+        <img src="https://avatars.githubusercontent.com/u/42853945?v=4" width="50" />
+        <br />
+        MarlusVLC
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/mplucas">
+        <img src="https://avatars.githubusercontent.com/u/42855038?v=4" width="50" />
+        <br />
+        mplucas
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/RBBRONDANI">
+        <img src="https://avatars.githubusercontent.com/u/42865201?v=4" width="50" />
+        <br />
+        RBBRONDANI
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/luansapelli">
+        <img src="https://avatars.githubusercontent.com/u/42867942?v=4" width="50" />
+        <br />
+        luansapelli
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/otenbr">
+        <img src="https://avatars.githubusercontent.com/u/42872278?v=4" width="50" />
+        <br />
+        otenbr
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/JonissonGomes">
+        <img src="https://avatars.githubusercontent.com/u/42873530?v=4" width="50" />
+        <br />
+        JonissonGomes
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/guicastrofer">
+        <img src="https://avatars.githubusercontent.com/u/42876310?v=4" width="50" />
+        <br />
+        guicastrofer
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/jmachadogui">
+        <img src="https://avatars.githubusercontent.com/u/42877078?v=4" width="50" />
+        <br />
+        jmachadogui
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Sr-Lucas">
+        <img src="https://avatars.githubusercontent.com/u/42877760?v=4" width="50" />
+        <br />
+        Sr-Lucas
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/evertosilva">
+        <img src="https://avatars.githubusercontent.com/u/42879946?v=4" width="50" />
+        <br />
+        evertosilva
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/NathanRF">
+        <img src="https://avatars.githubusercontent.com/u/42881774?v=4" width="50" />
+        <br />
+        NathanRF
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/LuizFantin">
+        <img src="https://avatars.githubusercontent.com/u/42882414?v=4" width="50" />
+        <br />
+        LuizFantin
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/VitorEmanuelDev">
+        <img src="https://avatars.githubusercontent.com/u/42883031?v=4" width="50" />
+        <br />
+        VitorEmanuelDev
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Alvarenga-Dev">
+        <img src="https://avatars.githubusercontent.com/u/42894096?v=4" width="50" />
+        <br />
+        Alvarenga-Dev
+      </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
