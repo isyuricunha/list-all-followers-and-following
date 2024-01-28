@@ -45,10 +45,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/theIDXjon">
+      <a href="https://github.com/TeamAlaskaCode">
         <img src="https://avatars.githubusercontent.com/u/154908371?v=4" width="50" />
         <br />
-        theIDXjon
+        TeamAlaskaCode
       </a>
     </td>
   </tr><tr>
