@@ -23762,10 +23762,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/arzendev">
+      <a href="https://github.com/japanihon">
         <img src="https://avatars.githubusercontent.com/u/77374408?v=4" width="50" />
         <br />
-        arzendev
+        japanihon
       </a>
     </td>
     <td width="150" align="center">
