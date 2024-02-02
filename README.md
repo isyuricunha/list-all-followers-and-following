@@ -15648,10 +15648,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/livia-graciela">
+      <a href="https://github.com/liviaaraujoo">
         <img src="https://avatars.githubusercontent.com/u/96751105?v=4" width="50" />
         <br />
-        livia-graciela
+        liviaaraujoo
       </a>
     </td>
     <td width="150" align="center">
