@@ -1392,10 +1392,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/freecodecamp0217">
+      <a href="https://github.com/techsaavy1111">
         <img src="https://avatars.githubusercontent.com/u/136337227?v=4" width="50" />
         <br />
-        freecodecamp0217
+        techsaavy1111
       </a>
     </td>
     <td width="150" align="center">
