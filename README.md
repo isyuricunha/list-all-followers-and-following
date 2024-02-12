@@ -47322,26 +47322,10 @@
   </tr>
 </table>
 
-## Following <kbd>1</kbd>
+## Following <kbd>0</kbd>
 
 <table>
-  <tr>
-    <td width="150" align="center">
-      <a href="https://github.com/leolunardelli">
-        <img src="https://avatars.githubusercontent.com/u/102632902?v=4" width="50" />
-        <br />
-        leolunardelli
-      </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-  </tr>
+  
 </table>
 
 ## LICENSE
