@@ -2069,10 +2069,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/BestFriend-Sweet">
+      <a href="https://github.com/BestFriend67">
         <img src="https://avatars.githubusercontent.com/u/132333928?v=4" width="50" />
         <br />
-        BestFriend-Sweet
+        BestFriend67
       </a>
     </td>
     <td width="150" align="center">
