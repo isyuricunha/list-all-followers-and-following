@@ -24705,10 +24705,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/jokerflash">
+      <a href="https://github.com/AppTrailblazer">
         <img src="https://avatars.githubusercontent.com/u/74626440?v=4" width="50" />
         <br />
-        jokerflash
+        AppTrailblazer
       </a>
     </td>
   </tr><tr>
