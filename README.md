@@ -26037,10 +26037,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/komothecat">
+      <a href="https://github.com/cattokomo">
         <img src="https://avatars.githubusercontent.com/u/71205197?v=4" width="50" />
         <br />
-        komothecat
+        cattokomo
       </a>
     </td>
   </tr><tr>
