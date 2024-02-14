@@ -319,10 +319,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Gui0206">
+      <a href="https://github.com/guilhermeholandamarques">
         <img src="https://avatars.githubusercontent.com/u/142675963?v=4" width="50" />
         <br />
-        Gui0206
+        guilhermeholandamarques
       </a>
     </td>
     <td width="150" align="center">
