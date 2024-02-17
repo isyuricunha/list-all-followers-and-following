@@ -24209,10 +24209,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/joshjgomes">
+      <a href="https://github.com/joshfisidi">
         <img src="https://avatars.githubusercontent.com/u/76191290?v=4" width="50" />
         <br />
-        joshjgomes
+        joshfisidi
       </a>
     </td>
     <td width="150" align="center">
