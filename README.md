@@ -15475,10 +15475,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/julianacastilloaraujo">
+      <a href="https://github.com/jlianacastillo">
         <img src="https://avatars.githubusercontent.com/u/96964513?v=4" width="50" />
         <br />
-        julianacastilloaraujo
+        jlianacastillo
       </a>
     </td>
     <td width="150" align="center">
