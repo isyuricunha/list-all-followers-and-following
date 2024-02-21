@@ -23165,10 +23165,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/jahdevelops">
+      <a href="https://github.com/ezecodes">
         <img src="https://avatars.githubusercontent.com/u/78436201?v=4" width="50" />
         <br />
-        jahdevelops
+        ezecodes
       </a>
     </td>
     <td width="150" align="center">
