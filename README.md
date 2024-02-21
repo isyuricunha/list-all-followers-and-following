@@ -17081,10 +17081,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/Ylquiorra">
+      <a href="https://github.com/vladislav0sidorov">
         <img src="https://avatars.githubusercontent.com/u/93033078?v=4" width="50" />
         <br />
-        Ylquiorra
+        vladislav0sidorov
       </a>
     </td>
     <td width="150" align="center">
