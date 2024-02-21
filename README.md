@@ -1615,10 +1615,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/JunioDo">
+      <a href="https://github.com/mirror0000">
         <img src="https://avatars.githubusercontent.com/u/134664641?v=4" width="50" />
         <br />
-        JunioDo
+        mirror0000
       </a>
     </td>
     <td width="150" align="center">
