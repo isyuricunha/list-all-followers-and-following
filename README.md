@@ -21012,10 +21012,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/linfri">
+      <a href="https://github.com/aurora-mm">
         <img src="https://avatars.githubusercontent.com/u/83468574?v=4" width="50" />
         <br />
-        linfri
+        aurora-mm
       </a>
     </td>
     <td width="150" align="center">
