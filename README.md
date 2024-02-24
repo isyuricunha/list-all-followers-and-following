@@ -4416,10 +4416,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/kilian-balaguer">
+      <a href="https://github.com/kilianbalageur">
         <img src="https://avatars.githubusercontent.com/u/122736906?v=4" width="50" />
         <br />
-        kilian-balaguer
+        kilianbalageur
       </a>
     </td>
     <td width="150" align="center">
