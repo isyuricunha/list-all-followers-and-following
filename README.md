@@ -23633,10 +23633,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/rose-w-mwangi">
+      <a href="https://github.com/rosemwangie">
         <img src="https://avatars.githubusercontent.com/u/77434770?v=4" width="50" />
         <br />
-        rose-w-mwangi
+        rosemwangie
       </a>
     </td>
     <td width="150" align="center">
