@@ -326,10 +326,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/alternbit">
+      <a href="https://github.com/altern-ai">
         <img src="https://avatars.githubusercontent.com/u/142718182?v=4" width="50" />
         <br />
-        alternbit
+        altern-ai
       </a>
     </td>
     <td width="150" align="center">
