@@ -9225,10 +9225,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/PirateCode-eth">
+      <a href="https://github.com/PirateCodeWeb3">
         <img src="https://avatars.githubusercontent.com/u/110432670?v=4" width="50" />
         <br />
-        PirateCode-eth
+        PirateCodeWeb3
       </a>
     </td>
   </tr><tr>
