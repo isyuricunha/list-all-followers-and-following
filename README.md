@@ -5417,10 +5417,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/kenzo-bff">
+      <a href="https://github.com/slyvic">
         <img src="https://avatars.githubusercontent.com/u/119789975?v=4" width="50" />
         <br />
-        kenzo-bff
+        slyvic
       </a>
     </td>
     <td width="150" align="center">
