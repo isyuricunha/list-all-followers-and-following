@@ -31574,10 +31574,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/omertalib42">
+      <a href="https://github.com/otaliptus">
         <img src="https://avatars.githubusercontent.com/u/56600661?v=4" width="50" />
         <br />
-        omertalib42
+        otaliptus
       </a>
     </td>
     <td width="150" align="center">
