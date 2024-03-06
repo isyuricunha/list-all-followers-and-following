@@ -6547,10 +6547,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/CEPIZIN">
+      <a href="https://github.com/DevCodeMathias">
         <img src="https://avatars.githubusercontent.com/u/116749645?v=4" width="50" />
         <br />
-        CEPIZIN
+        DevCodeMathias
       </a>
     </td>
     <td width="150" align="center">
