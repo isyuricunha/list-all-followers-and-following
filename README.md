@@ -5352,10 +5352,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/wettestsock">
+      <a href="https://github.com/dmmosh">
         <img src="https://avatars.githubusercontent.com/u/119987092?v=4" width="50" />
         <br />
-        wettestsock
+        dmmosh
       </a>
     </td>
     <td width="150" align="center">
