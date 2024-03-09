@@ -24396,10 +24396,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/AXG-coder">
+      <a href="https://github.com/Aziz-AXG">
         <img src="https://avatars.githubusercontent.com/u/74980212?v=4" width="50" />
         <br />
-        AXG-coder
+        Aziz-AXG
       </a>
     </td>
     <td width="150" align="center">
