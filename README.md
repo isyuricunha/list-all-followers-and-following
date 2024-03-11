@@ -2033,10 +2033,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/ITexplee">
+      <a href="https://github.com/ITexpLee">
         <img src="https://avatars.githubusercontent.com/u/132325064?v=4" width="50" />
         <br />
-        ITexplee
+        ITexpLee
       </a>
     </td>
     <td width="150" align="center">
