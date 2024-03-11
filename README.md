@@ -7123,10 +7123,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/oleksi-1993">
+      <a href="https://github.com/dennis-stephens">
         <img src="https://avatars.githubusercontent.com/u/115404686?v=4" width="50" />
         <br />
-        oleksi-1993
+        dennis-stephens
       </a>
     </td>
     <td width="150" align="center">
