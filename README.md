@@ -32913,10 +32913,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/bbamzi">
+      <a href="https://github.com/AkinbodeBams">
         <img src="https://avatars.githubusercontent.com/u/53081200?v=4" width="50" />
         <br />
-        bbamzi
+        AkinbodeBams
       </a>
     </td>
   </tr><tr>
