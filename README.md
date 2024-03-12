@@ -477,10 +477,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/quirkmeister">
+      <a href="https://github.com/lucky-whistle-dev">
         <img src="https://avatars.githubusercontent.com/u/141368446?v=4" width="50" />
         <br />
-        quirkmeister
+        lucky-whistle-dev
       </a>
     </td>
   </tr><tr>
