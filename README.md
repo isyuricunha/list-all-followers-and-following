@@ -384,10 +384,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/maxm-95">
+      <a href="https://github.com/superbuzz99">
         <img src="https://avatars.githubusercontent.com/u/141873095?v=4" width="50" />
         <br />
-        maxm-95
+        superbuzz99
       </a>
     </td>
     <td width="150" align="center">
