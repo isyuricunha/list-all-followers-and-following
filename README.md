@@ -10183,10 +10183,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/nicklm-sys">
+      <a href="https://github.com/nickaldwin">
         <img src="https://avatars.githubusercontent.com/u/108027865?v=4" width="50" />
         <br />
-        nicklm-sys
+        nickaldwin
       </a>
     </td>
     <td width="150" align="center">
