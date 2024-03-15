@@ -22185,10 +22185,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Nawaus">
+      <a href="https://github.com/GustavoEdson">
         <img src="https://avatars.githubusercontent.com/u/80435752?v=4" width="50" />
         <br />
-        Nawaus
+        GustavoEdson
       </a>
     </td>
   </tr><tr>
