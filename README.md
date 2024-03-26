@@ -14856,10 +14856,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/solanaguru">
+      <a href="https://github.com/ethsolana">
         <img src="https://avatars.githubusercontent.com/u/97841807?v=4" width="50" />
         <br />
-        solanaguru
+        ethsolana
       </a>
     </td>
     <td width="150" align="center">
