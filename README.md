@@ -45060,10 +45060,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/lukas-pastva">
+      <a href="https://github.com/lukaspastva">
         <img src="https://avatars.githubusercontent.com/u/6751435?v=4" width="50" />
         <br />
-        lukas-pastva
+        lukaspastva
       </a>
     </td>
     <td width="150" align="center">
