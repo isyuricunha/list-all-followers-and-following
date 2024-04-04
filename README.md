@@ -45053,10 +45053,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/lukaspastva">
+      <a href="https://github.com/lukas-pastva">
         <img src="https://avatars.githubusercontent.com/u/6751435?v=4" width="50" />
         <br />
-        lukaspastva
+        lukas-pastva
       </a>
     </td>
     <td width="150" align="center">
