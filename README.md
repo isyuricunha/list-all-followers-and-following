@@ -917,10 +917,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/allanfm0">
+      <a href="https://github.com/allanflm">
         <img src="https://avatars.githubusercontent.com/u/138832424?v=4" width="50" />
         <br />
-        allanfm0
+        allanflm
       </a>
     </td>
     <td width="150" align="center">
