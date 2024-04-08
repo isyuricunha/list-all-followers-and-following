@@ -2551,10 +2551,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/vinicius-f-pereira">
+      <a href="https://github.com/0xvih">
         <img src="https://avatars.githubusercontent.com/u/130008311?v=4" width="50" />
         <br />
-        vinicius-f-pereira
+        0xvih
       </a>
     </td>
     <td width="150" align="center">
