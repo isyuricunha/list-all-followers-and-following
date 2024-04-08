@@ -2551,10 +2551,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/0xvih">
+      <a href="https://github.com/0xniv">
         <img src="https://avatars.githubusercontent.com/u/130008311?v=4" width="50" />
         <br />
-        0xvih
+        0xniv
       </a>
     </td>
     <td width="150" align="center">
