@@ -161,10 +161,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/Talonacosta">
+      <a href="https://github.com/Tal0na">
         <img src="https://avatars.githubusercontent.com/u/149351223?v=4" width="50" />
         <br />
-        Talonacosta
+        Tal0na
       </a>
     </td>
     <td width="150" align="center">
