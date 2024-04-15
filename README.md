@@ -5424,10 +5424,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Amid-Kirdum">
+      <a href="https://github.com/Dima-Mdrk">
         <img src="https://avatars.githubusercontent.com/u/119762130?v=4" width="50" />
         <br />
-        Amid-Kirdum
+        Dima-Mdrk
       </a>
     </td>
     <td width="150" align="center">
