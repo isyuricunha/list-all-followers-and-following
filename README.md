@@ -12919,10 +12919,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/mano3queijos">
+      <a href="https://github.com/Emanuel3queijos">
         <img src="https://avatars.githubusercontent.com/u/101946589?v=4" width="50" />
         <br />
-        mano3queijos
+        Emanuel3queijos
       </a>
     </td>
     <td width="150" align="center">
