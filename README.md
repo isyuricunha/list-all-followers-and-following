@@ -42281,10 +42281,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/jackbereson">
+      <a href="https://github.com/graqhqlint">
         <img src="https://avatars.githubusercontent.com/u/18569187?v=4" width="50" />
         <br />
-        jackbereson
+        graqhqlint
       </a>
     </td>
     <td width="150" align="center">
