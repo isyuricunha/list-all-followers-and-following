@@ -6230,10 +6230,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/okpyjs">
+      <a href="https://github.com/minopeef">
         <img src="https://avatars.githubusercontent.com/u/117494453?v=4" width="50" />
         <br />
-        okpyjs
+        minopeef
       </a>
     </td>
     <td width="150" align="center">
