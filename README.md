@@ -21768,10 +21768,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/m-qasim-ali">
+      <a href="https://github.com/m-qasimali">
         <img src="https://avatars.githubusercontent.com/u/80982011?v=4" width="50" />
         <br />
-        m-qasim-ali
+        m-qasimali
       </a>
     </td>
     <td width="150" align="center">
