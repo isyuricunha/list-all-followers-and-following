@@ -18909,10 +18909,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/DiamondBroPlayz">
+      <a href="https://github.com/diamondbroplayz">
         <img src="https://avatars.githubusercontent.com/u/87837029?v=4" width="50" />
         <br />
-        DiamondBroPlayz
+        diamondbroplayz
       </a>
     </td>
   </tr><tr>
