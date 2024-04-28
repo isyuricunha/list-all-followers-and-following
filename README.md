@@ -9665,10 +9665,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/Everest-dev0323">
+      <a href="https://github.com/everest-0323">
         <img src="https://avatars.githubusercontent.com/u/109219671?v=4" width="50" />
         <br />
-        Everest-dev0323
+        everest-0323
       </a>
     </td>
     <td width="150" align="center">
