@@ -2537,10 +2537,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/0xniv">
+      <a href="https://github.com/0bvim">
         <img src="https://avatars.githubusercontent.com/u/130008311?v=4" width="50" />
         <br />
-        0xniv
+        0bvim
       </a>
     </td>
     <td width="150" align="center">
