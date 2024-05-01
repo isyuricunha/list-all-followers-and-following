@@ -34397,10 +34397,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/good-night-white-pride">
+      <a href="https://github.com/TWR-pixel">
         <img src="https://avatars.githubusercontent.com/u/46828715?v=4" width="50" />
         <br />
-        good-night-white-pride
+        TWR-pixel
       </a>
     </td>
     <td width="150" align="center">
