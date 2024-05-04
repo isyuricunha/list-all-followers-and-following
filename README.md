@@ -1422,10 +1422,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/victorhnascmento">
+      <a href="https://github.com/victorhugonascimento">
         <img src="https://avatars.githubusercontent.com/u/135972352?v=4" width="50" />
         <br />
-        victorhnascmento
+        victorhugonascimento
       </a>
     </td>
     <td width="150" align="center">
