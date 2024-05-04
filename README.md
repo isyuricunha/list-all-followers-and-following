@@ -198,10 +198,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/samirtimalsina">
+      <a href="https://github.com/gitechnologi">
         <img src="https://avatars.githubusercontent.com/u/146724777?v=4" width="50" />
         <br />
-        samirtimalsina
+        gitechnologi
       </a>
     </td>
     <td width="150" align="center">
