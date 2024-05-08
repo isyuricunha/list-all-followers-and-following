@@ -126,10 +126,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/P0827">
+      <a href="https://github.com/p0827">
         <img src="https://avatars.githubusercontent.com/u/149780508?v=4" width="50" />
         <br />
-        P0827
+        p0827
       </a>
     </td>
     <td width="150" align="center">
