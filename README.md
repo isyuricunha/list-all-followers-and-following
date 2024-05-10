@@ -766,10 +766,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/nakshatra05">
+      <a href="https://github.com/Nakshatra05">
         <img src="https://avatars.githubusercontent.com/u/139595090?v=4" width="50" />
         <br />
-        nakshatra05
+        Nakshatra05
       </a>
     </td>
   </tr><tr>
