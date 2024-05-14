@@ -44751,10 +44751,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/battlerealmsmodeditor">
+      <a href="https://github.com/KravitzMC">
         <img src="https://avatars.githubusercontent.com/u/6524613?v=4" width="50" />
         <br />
-        battlerealmsmodeditor
+        KravitzMC
       </a>
     </td>
     <td width="150" align="center">
