@@ -8787,10 +8787,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/wisdomwebsolution">
+      <a href="https://github.com/confidentmeerkat">
         <img src="https://avatars.githubusercontent.com/u/111148350?v=4" width="50" />
         <br />
-        wisdomwebsolution
+        confidentmeerkat
       </a>
     </td>
     <td width="150" align="center">
