@@ -29790,10 +29790,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/gabriel0x01">
+      <a href="https://github.com/gabrielmarquestech">
         <img src="https://avatars.githubusercontent.com/u/59850744?v=4" width="50" />
         <br />
-        gabriel0x01
+        gabrielmarquestech
       </a>
     </td>
     <td width="150" align="center">
