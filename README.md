@@ -22669,10 +22669,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/ezecodes">
+      <a href="https://github.com/thejahbrother">
         <img src="https://avatars.githubusercontent.com/u/78436201?v=4" width="50" />
         <br />
-        ezecodes
+        thejahbrother
       </a>
     </td>
     <td width="150" align="center">
