@@ -22438,10 +22438,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/DaviG27">
+      <a href="https://github.com/gbdavi">
         <img src="https://avatars.githubusercontent.com/u/79026392?v=4" width="50" />
         <br />
-        DaviG27
+        gbdavi
       </a>
     </td>
   </tr><tr>
