@@ -5619,10 +5619,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/byete">
+      <a href="https://github.com/bytemakesshit">
         <img src="https://avatars.githubusercontent.com/u/118949529?v=4" width="50" />
         <br />
-        byete
+        bytemakesshit
       </a>
     </td>
     <td width="150" align="center">
