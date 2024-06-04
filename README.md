@@ -11970,10 +11970,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/Gustavo-trybedev">
+      <a href="https://github.com/gustavodutradev">
         <img src="https://avatars.githubusercontent.com/u/103958434?v=4" width="50" />
         <br />
-        Gustavo-trybedev
+        gustavodutradev
       </a>
     </td>
     <td width="150" align="center">
