@@ -37429,10 +37429,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Warmachine13">
+      <a href="https://github.com/lucaspereirasouzat">
         <img src="https://avatars.githubusercontent.com/u/36778572?v=4" width="50" />
         <br />
-        Warmachine13
+        lucaspereirasouzat
       </a>
     </td>
     <td width="150" align="center">
