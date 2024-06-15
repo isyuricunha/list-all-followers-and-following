@@ -14396,10 +14396,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/MayconParanhos">
+      <a href="https://github.com/EternalBytes">
         <img src="https://avatars.githubusercontent.com/u/98437204?v=4" width="50" />
         <br />
-        MayconParanhos
+        EternalBytes
       </a>
     </td>
     <td width="150" align="center">
