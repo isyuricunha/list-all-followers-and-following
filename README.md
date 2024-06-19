@@ -28580,10 +28580,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Iury189">
+      <a href="https://github.com/CryptedSnow">
         <img src="https://avatars.githubusercontent.com/u/63120240?v=4" width="50" />
         <br />
-        Iury189
+        CryptedSnow
       </a>
     </td>
     <td width="150" align="center">
