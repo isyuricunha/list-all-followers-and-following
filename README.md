@@ -46300,26 +46300,10 @@
   </tr>
 </table>
 
-## Following <kbd>1</kbd>
+## Following <kbd>0</kbd>
 
 <table>
-  <tr>
-    <td width="150" align="center">
-      <a href="https://github.com/ente-io">
-        <img src="https://avatars.githubusercontent.com/u/64603161?v=4" width="50" />
-        <br />
-        ente-io
-      </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-  </tr>
+  
 </table>
 
 ## LICENSE
