@@ -11962,10 +11962,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/CodingMantras">
+      <a href="https://github.com/rampal-punia">
         <img src="https://avatars.githubusercontent.com/u/104087274?v=4" width="50" />
         <br />
-        CodingMantras
+        rampal-punia
       </a>
     </td>
   </tr><tr>
