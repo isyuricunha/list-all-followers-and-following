@@ -24080,10 +24080,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/AppTrailblazer">
+      <a href="https://github.com/VitmainC1211">
         <img src="https://avatars.githubusercontent.com/u/74626440?v=4" width="50" />
         <br />
-        AppTrailblazer
+        VitmainC1211
       </a>
     </td>
     <td width="150" align="center">
