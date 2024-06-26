@@ -8701,10 +8701,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/gust-tech">
+      <a href="https://github.com/gustvtech">
         <img src="https://avatars.githubusercontent.com/u/111547125?v=4" width="50" />
         <br />
-        gust-tech
+        gustvtech
       </a>
     </td>
     <td width="150" align="center">
