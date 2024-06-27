@@ -41950,10 +41950,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/jacksparoow">
+      <a href="https://github.com/billyjacksone">
         <img src="https://avatars.githubusercontent.com/u/18569187?v=4" width="50" />
         <br />
-        jacksparoow
+        billyjacksone
       </a>
     </td>
   </tr><tr>
