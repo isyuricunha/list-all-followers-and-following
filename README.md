@@ -8211,10 +8211,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/AllDayDev00">
+      <a href="https://github.com/AllDayDev0x">
         <img src="https://avatars.githubusercontent.com/u/112977494?v=4" width="50" />
         <br />
-        AllDayDev00
+        AllDayDev0x
       </a>
     </td>
     <td width="150" align="center">
