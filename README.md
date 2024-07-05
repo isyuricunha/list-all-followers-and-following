@@ -45673,10 +45673,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/o9uzdev">
+      <a href="https://github.com/oguzoldev">
         <img src="https://avatars.githubusercontent.com/u/1553917?v=4" width="50" />
         <br />
-        o9uzdev
+        oguzoldev
       </a>
     </td>
     <td width="150" align="center">
