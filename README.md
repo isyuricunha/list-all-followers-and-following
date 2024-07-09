@@ -20422,10 +20422,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/vschirmer">
+      <a href="https://github.com/vittxr">
         <img src="https://avatars.githubusercontent.com/u/83681019?v=4" width="50" />
         <br />
-        vschirmer
+        vittxr
       </a>
     </td>
   </tr><tr>
