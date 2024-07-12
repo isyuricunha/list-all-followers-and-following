@@ -5886,10 +5886,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/KourvA">
+      <a href="https://github.com/kozyol">
         <img src="https://avatars.githubusercontent.com/u/118578799?v=4" width="50" />
         <br />
-        KourvA
+        kozyol
       </a>
     </td>
     <td width="150" align="center">
