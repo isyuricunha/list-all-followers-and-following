@@ -25390,10 +25390,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/milonsheikh-dev">
+      <a href="https://github.com/milon-dev">
         <img src="https://avatars.githubusercontent.com/u/71063427?v=4" width="50" />
         <br />
-        milonsheikh-dev
+        milon-dev
       </a>
     </td>
   </tr><tr>
