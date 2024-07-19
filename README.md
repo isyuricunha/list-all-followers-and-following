@@ -435,10 +435,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/altern-ai">
+      <a href="https://github.com/bluebinky">
         <img src="https://avatars.githubusercontent.com/u/142718182?v=4" width="50" />
         <br />
-        altern-ai
+        bluebinky
       </a>
     </td>
     <td width="150" align="center">
