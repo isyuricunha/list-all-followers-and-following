@@ -29466,10 +29466,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/alicompose">
+      <a href="https://github.com/aliCompose">
         <img src="https://avatars.githubusercontent.com/u/60379989?v=4" width="50" />
         <br />
-        alicompose
+        aliCompose
       </a>
     </td>
     <td width="150" align="center">
