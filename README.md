@@ -24015,10 +24015,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/VitmainC1211">
+      <a href="https://github.com/VitaminC1211">
         <img src="https://avatars.githubusercontent.com/u/74626440?v=4" width="50" />
         <br />
-        VitmainC1211
+        VitaminC1211
       </a>
     </td>
     <td width="150" align="center">
