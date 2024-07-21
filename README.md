@@ -34318,10 +34318,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/thaynansilva">
+      <a href="https://github.com/flobzex">
         <img src="https://avatars.githubusercontent.com/u/46248340?v=4" width="50" />
         <br />
-        thaynansilva
+        flobzex
       </a>
     </td>
   </tr><tr>
