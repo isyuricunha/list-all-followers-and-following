@@ -13,7 +13,7 @@
 | Yuri | a random guy on the internet.
  | [yuricunha.com](https://yuricunha.com) | Brazil | - |
 
-## Followers <kbd>6412</kbd>
+## Followers <kbd>6411</kbd>
 
 <table>
   <tr>
@@ -46098,13 +46098,6 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/dmitrysobolev">
-        <img src="https://avatars.githubusercontent.com/u/117603?v=4" width="50" />
-        <br />
-        dmitrysobolev
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/dvinciguerra">
         <img src="https://avatars.githubusercontent.com/u/114177?v=4" width="50" />
         <br />
@@ -46132,7 +46125,6 @@
         esin
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/drahot">
         <img src="https://avatars.githubusercontent.com/u/68807?v=4" width="50" />
@@ -46140,6 +46132,7 @@
         drahot
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dac">
         <img src="https://avatars.githubusercontent.com/u/63703?v=4" width="50" />
@@ -46168,7 +46161,6 @@
         linces
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/WildGenie">
         <img src="https://avatars.githubusercontent.com/u/39780?v=4" width="50" />
@@ -46176,12 +46168,15 @@
         WildGenie
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/matiasinsaurralde">
         <img src="https://avatars.githubusercontent.com/u/20110?v=4" width="50" />
         <br />
         matiasinsaurralde
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
