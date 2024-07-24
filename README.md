@@ -36025,10 +36025,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Jeffvos">
+      <a href="https://github.com/CodeMaverickHQ">
         <img src="https://avatars.githubusercontent.com/u/41445094?v=4" width="50" />
         <br />
-        Jeffvos
+        CodeMaverickHQ
       </a>
     </td>
     <td width="150" align="center">
