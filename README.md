@@ -20754,10 +20754,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/Naum199825">
+      <a href="https://github.com/FriedrichNaum">
         <img src="https://avatars.githubusercontent.com/u/83044596?v=4" width="50" />
         <br />
-        Naum199825
+        FriedrichNaum
       </a>
     </td>
     <td width="150" align="center">
