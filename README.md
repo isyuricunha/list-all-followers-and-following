@@ -270,10 +270,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/hightech0827">
+      <a href="https://github.com/P-7MQ">
         <img src="https://avatars.githubusercontent.com/u/149780508?v=4" width="50" />
         <br />
-        hightech0827
+        P-7MQ
       </a>
     </td>
     <td width="150" align="center">
