@@ -39416,10 +39416,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/simao-msjr">
+      <a href="https://github.com/simaojunior">
         <img src="https://avatars.githubusercontent.com/u/29005352?v=4" width="50" />
         <br />
-        simao-msjr
+        simaojunior
       </a>
     </td>
     <td width="150" align="center">
