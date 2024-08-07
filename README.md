@@ -4402,10 +4402,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Parvbird">
+      <a href="https://github.com/Chadkendu">
         <img src="https://avatars.githubusercontent.com/u/122843056?v=4" width="50" />
         <br />
-        Parvbird
+        Chadkendu
       </a>
     </td>
   </tr><tr>
