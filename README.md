@@ -40986,10 +40986,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/alex-d-fox">
+      <a href="https://github.com/alexanderdfox">
         <img src="https://avatars.githubusercontent.com/u/21992452?v=4" width="50" />
         <br />
-        alex-d-fox
+        alexanderdfox
       </a>
     </td>
     <td width="150" align="center">
