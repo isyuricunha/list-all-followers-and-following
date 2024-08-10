@@ -10364,10 +10364,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/viniciusprazeres">
+      <a href="https://github.com/viniciusaprazeres">
         <img src="https://avatars.githubusercontent.com/u/107568409?v=4" width="50" />
         <br />
-        viniciusprazeres
+        viniciusaprazeres
       </a>
     </td>
     <td width="150" align="center">
