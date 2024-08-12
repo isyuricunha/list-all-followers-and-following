@@ -3128,10 +3128,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/TalentedBlu123">
+      <a href="https://github.com/nking0715">
         <img src="https://avatars.githubusercontent.com/u/127435039?v=4" width="50" />
         <br />
-        TalentedBlu123
+        nking0715
       </a>
     </td>
     <td width="150" align="center">
