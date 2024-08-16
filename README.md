@@ -13100,10 +13100,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/AppNewbie86">
+      <a href="https://github.com/DataDruide">
         <img src="https://avatars.githubusercontent.com/u/101304191?v=4" width="50" />
         <br />
-        AppNewbie86
+        DataDruide
       </a>
     </td>
     <td width="150" align="center">
