@@ -44499,10 +44499,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/0xk0nf">
+      <a href="https://github.com/darkty0x">
         <img src="https://avatars.githubusercontent.com/u/6184640?v=4" width="50" />
         <br />
-        0xk0nf
+        darkty0x
       </a>
     </td>
     <td width="150" align="center">
