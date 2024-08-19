@@ -291,10 +291,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/P-7MQ">
+      <a href="https://github.com/AaQ027">
         <img src="https://avatars.githubusercontent.com/u/149780508?v=4" width="50" />
         <br />
-        P-7MQ
+        AaQ027
       </a>
     </td>
     <td width="150" align="center">
