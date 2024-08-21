@@ -22273,10 +22273,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/bhavinnor1">
+      <a href="https://github.com/darksouls-arch">
         <img src="https://avatars.githubusercontent.com/u/79081893?v=4" width="50" />
         <br />
-        bhavinnor1
+        darksouls-arch
       </a>
     </td>
     <td width="150" align="center">
