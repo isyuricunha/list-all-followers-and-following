@@ -29350,10 +29350,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/ACompositor">
+      <a href="https://github.com/alirezaudev">
         <img src="https://avatars.githubusercontent.com/u/60379989?v=4" width="50" />
         <br />
-        ACompositor
+        alirezaudev
       </a>
     </td>
   </tr><tr>
