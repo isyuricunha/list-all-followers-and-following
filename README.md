@@ -29336,10 +29336,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/aliCompose">
+      <a href="https://github.com/ACompositor">
         <img src="https://avatars.githubusercontent.com/u/60379989?v=4" width="50" />
         <br />
-        aliCompose
+        ACompositor
       </a>
     </td>
     <td width="150" align="center">
