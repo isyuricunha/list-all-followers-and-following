@@ -11070,10 +11070,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/FrJrooT">
+      <a href="https://github.com/FrJ-root">
         <img src="https://avatars.githubusercontent.com/u/105974254?v=4" width="50" />
         <br />
-        FrJrooT
+        FrJ-root
       </a>
     </td>
     <td width="150" align="center">
