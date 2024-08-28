@@ -1594,10 +1594,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/allancorp23">
+      <a href="https://github.com/Nsoro-Allan">
         <img src="https://avatars.githubusercontent.com/u/135638821?v=4" width="50" />
         <br />
-        allancorp23
+        Nsoro-Allan
       </a>
     </td>
   </tr><tr>
