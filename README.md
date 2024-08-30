@@ -28918,10 +28918,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/lekanashiro1212">
+      <a href="https://github.com/leticiamkanashiro">
         <img src="https://avatars.githubusercontent.com/u/61488960?v=4" width="50" />
         <br />
-        lekanashiro1212
+        leticiamkanashiro
       </a>
     </td>
   </tr><tr>
