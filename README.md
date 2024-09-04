@@ -7750,10 +7750,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Taupik-001">
+      <a href="https://github.com/taupik-t">
         <img src="https://avatars.githubusercontent.com/u/113954398?v=4" width="50" />
         <br />
-        Taupik-001
+        taupik-t
       </a>
     </td>
   </tr><tr>
