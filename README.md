@@ -298,10 +298,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/AaQ027">
+      <a href="https://github.com/super0827">
         <img src="https://avatars.githubusercontent.com/u/149780508?v=4" width="50" />
         <br />
-        AaQ027
+        super0827
       </a>
     </td>
   </tr><tr>
