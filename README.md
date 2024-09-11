@@ -30531,10 +30531,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/404-Chacal">
+      <a href="https://github.com/brunoh3art">
         <img src="https://avatars.githubusercontent.com/u/56702404?v=4" width="50" />
         <br />
-        404-Chacal
+        brunoh3art
       </a>
     </td>
     <td width="150" align="center">
