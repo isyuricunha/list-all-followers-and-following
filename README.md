@@ -363,10 +363,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/FunnyDev1228">
+      <a href="https://github.com/Code21228">
         <img src="https://avatars.githubusercontent.com/u/146973359?v=4" width="50" />
         <br />
-        FunnyDev1228
+        Code21228
       </a>
     </td>
     <td width="150" align="center">
