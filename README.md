@@ -18442,10 +18442,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/lucassoliveiraa">
+      <a href="https://github.com/lusgaoliveira">
         <img src="https://avatars.githubusercontent.com/u/88242096?v=4" width="50" />
         <br />
-        lucassoliveiraa
+        lusgaoliveira
       </a>
     </td>
   </tr><tr>
