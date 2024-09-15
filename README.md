@@ -41605,10 +41605,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/billyjacksone">
+      <a href="https://github.com/jackbereson">
         <img src="https://avatars.githubusercontent.com/u/18569187?v=4" width="50" />
         <br />
-        billyjacksone
+        jackbereson
       </a>
     </td>
     <td width="150" align="center">
