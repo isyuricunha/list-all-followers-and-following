@@ -21704,10 +21704,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Doma-byte">
+      <a href="https://github.com/domabyte">
         <img src="https://avatars.githubusercontent.com/u/80272391?v=4" width="50" />
         <br />
-        Doma-byte
+        domabyte
       </a>
     </td>
     <td width="150" align="center">
