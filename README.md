@@ -241,10 +241,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/johnsmith0212">
+      <a href="https://github.com/0x0factor">
         <img src="https://avatars.githubusercontent.com/u/154461223?v=4" width="50" />
         <br />
-        johnsmith0212
+        0x0factor
       </a>
     </td>
     <td width="150" align="center">
