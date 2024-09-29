@@ -4273,10 +4273,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/gameliaprogrammer">
+      <a href="https://github.com/GamilaCoding">
         <img src="https://avatars.githubusercontent.com/u/123306614?v=4" width="50" />
         <br />
-        gameliaprogrammer
+        GamilaCoding
       </a>
     </td>
     <td width="150" align="center">
