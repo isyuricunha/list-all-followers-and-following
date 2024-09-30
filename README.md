@@ -24382,10 +24382,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Dibyajyoti2002">
+      <a href="https://github.com/dibs-gang">
         <img src="https://avatars.githubusercontent.com/u/72976359?v=4" width="50" />
         <br />
-        Dibyajyoti2002
+        dibs-gang
       </a>
     </td>
   </tr><tr>
