@@ -19638,10 +19638,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/VadzimKavalevich">
+      <a href="https://github.com/WadimKowalewicz">
         <img src="https://avatars.githubusercontent.com/u/85260608?v=4" width="50" />
         <br />
-        VadzimKavalevich
+        WadimKowalewicz
       </a>
     </td>
     <td width="150" align="center">
