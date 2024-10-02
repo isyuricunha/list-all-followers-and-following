@@ -20041,10 +20041,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/kamawallsec">
+      <a href="https://github.com/karmeensec">
         <img src="https://avatars.githubusercontent.com/u/84046930?v=4" width="50" />
         <br />
-        kamawallsec
+        karmeensec
       </a>
     </td>
     <td width="150" align="center">
