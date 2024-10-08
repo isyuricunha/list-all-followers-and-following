@@ -34311,10 +34311,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/bsserikbay">
+      <a href="https://github.com/ce0th">
         <img src="https://avatars.githubusercontent.com/u/45222492?v=4" width="50" />
         <br />
-        bsserikbay
+        ce0th
       </a>
     </td>
     <td width="150" align="center">
