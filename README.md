@@ -27882,10 +27882,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/Gabriel-Lira-ds">
+      <a href="https://github.com/gabriellirads">
         <img src="https://avatars.githubusercontent.com/u/64031288?v=4" width="50" />
         <br />
-        Gabriel-Lira-ds
+        gabriellirads
       </a>
     </td>
     <td width="150" align="center">
