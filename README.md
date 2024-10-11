@@ -26982,10 +26982,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/choir27">
+      <a href="https://github.com/choir241">
         <img src="https://avatars.githubusercontent.com/u/66279068?v=4" width="50" />
         <br />
-        choir27
+        choir241
       </a>
     </td>
     <td width="150" align="center">
