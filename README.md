@@ -42138,10 +42138,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/xdenias">
+      <a href="https://github.com/deniavsa">
         <img src="https://avatars.githubusercontent.com/u/15268827?v=4" width="50" />
         <br />
-        xdenias
+        deniavsa
       </a>
     </td>
     <td width="150" align="center">
