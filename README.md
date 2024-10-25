@@ -320,10 +320,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/kofuture">
+      <a href="https://github.com/battechcto">
         <img src="https://avatars.githubusercontent.com/u/149780508?v=4" width="50" />
         <br />
-        kofuture
+        battechcto
       </a>
     </td>
     <td width="150" align="center">
