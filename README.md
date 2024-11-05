@@ -32432,10 +32432,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/prithvirajkshatriya">
+      <a href="https://github.com/itsmetheearthianbuoy">
         <img src="https://avatars.githubusercontent.com/u/50717968?v=4" width="50" />
         <br />
-        prithvirajkshatriya
+        itsmetheearthianbuoy
       </a>
     </td>
     <td width="150" align="center">
