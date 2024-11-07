@@ -61,10 +61,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/niksakujovic">
+      <a href="https://github.com/funloving-beaver">
         <img src="https://avatars.githubusercontent.com/u/176419175?v=4" width="50" />
         <br />
-        niksakujovic
+        funloving-beaver
       </a>
     </td>
     <td width="150" align="center">
