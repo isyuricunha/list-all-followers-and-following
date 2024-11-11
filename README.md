@@ -25,10 +25,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/george-dev104">
+      <a href="https://github.com/austin-brockert">
         <img src="https://avatars.githubusercontent.com/u/181665912?v=4" width="50" />
         <br />
-        george-dev104
+        austin-brockert
       </a>
     </td>
     <td width="150" align="center">
