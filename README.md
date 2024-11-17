@@ -42152,10 +42152,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/laychv">
+      <a href="https://github.com/kolvs">
         <img src="https://avatars.githubusercontent.com/u/14256330?v=4" width="50" />
         <br />
-        laychv
+        kolvs
       </a>
     </td>
     <td width="150" align="center">
