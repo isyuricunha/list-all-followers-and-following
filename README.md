@@ -298,10 +298,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/battechcto">
+      <a href="https://github.com/hightech3">
         <img src="https://avatars.githubusercontent.com/u/149780508?v=4" width="50" />
         <br />
-        battechcto
+        hightech3
       </a>
     </td>
   </tr><tr>
