@@ -12718,10 +12718,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/rico191013">
+      <a href="https://github.com/domin191013">
         <img src="https://avatars.githubusercontent.com/u/101926344?v=4" width="50" />
         <br />
-        rico191013
+        domin191013
       </a>
     </td>
   </tr><tr>
