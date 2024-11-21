@@ -11,7 +11,7 @@
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
 | Yuri | a random guy on the internet.
- | [yuricunha.com](https://yuricunha.com) | Brazil | - |
+ | [yuricunha.com](https://yuricunha.com) | - | - |
 
 ## Followers <kbd>6329</kbd>
 
