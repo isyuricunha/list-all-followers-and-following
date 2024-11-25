@@ -29314,10 +29314,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/PatoGordo">
+      <a href="https://github.com/patogordo">
         <img src="https://avatars.githubusercontent.com/u/59514690?v=4" width="50" />
         <br />
-        PatoGordo
+        patogordo
       </a>
     </td>
   </tr><tr>
