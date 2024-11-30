@@ -36370,10 +36370,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/eudiegosilva">
+      <a href="https://github.com/diegosilvadigital">
         <img src="https://avatars.githubusercontent.com/u/38539443?v=4" width="50" />
         <br />
-        eudiegosilva
+        diegosilvadigital
       </a>
     </td>
   </tr><tr>
