@@ -2156,10 +2156,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/innovativeDev1210">
+      <a href="https://github.com/leoFinzel">
         <img src="https://avatars.githubusercontent.com/u/132317376?v=4" width="50" />
         <br />
-        innovativeDev1210
+        leoFinzel
       </a>
     </td>
     <td width="150" align="center">
