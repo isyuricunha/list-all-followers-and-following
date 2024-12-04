@@ -10,8 +10,7 @@
 
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
-| Yuri | a random guy on the internet.
- | [yuricunha.com](https://yuricunha.com) | - | - |
+| Yuri | creating some server for you | [yuricunha.com](https://yuricunha.com) | - | - |
 
 ## Followers <kbd>6320</kbd>
 
