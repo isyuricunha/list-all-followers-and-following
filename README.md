@@ -23409,10 +23409,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/mern-dev-pro">
+      <a href="https://github.com/ivan9717">
         <img src="https://avatars.githubusercontent.com/u/75461450?v=4" width="50" />
         <br />
-        mern-dev-pro
+        ivan9717
       </a>
     </td>
   </tr><tr>
