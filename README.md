@@ -33108,10 +33108,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Trend20">
+      <a href="https://github.com/devenock">
         <img src="https://avatars.githubusercontent.com/u/47891932?v=4" width="50" />
         <br />
-        Trend20
+        devenock
       </a>
     </td>
     <td width="150" align="center">
