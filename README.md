@@ -7073,10 +7073,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/webtopcoder">
+      <a href="https://github.com/OleksiiSkorba">
         <img src="https://avatars.githubusercontent.com/u/115404686?v=4" width="50" />
         <br />
-        webtopcoder
+        OleksiiSkorba
       </a>
     </td>
     <td width="150" align="center">
