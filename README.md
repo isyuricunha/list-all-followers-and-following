@@ -8181,10 +8181,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/AllDayDev0x">
+      <a href="https://github.com/getbigideas">
         <img src="https://avatars.githubusercontent.com/u/112977494?v=4" width="50" />
         <br />
-        AllDayDev0x
+        getbigideas
       </a>
     </td>
   </tr><tr>
