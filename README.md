@@ -1608,10 +1608,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/victorhugonascimento">
+      <a href="https://github.com/victorfreitas-dev">
         <img src="https://avatars.githubusercontent.com/u/135972352?v=4" width="50" />
         <br />
-        victorhugonascimento
+        victorfreitas-dev
       </a>
     </td>
     <td width="150" align="center">
