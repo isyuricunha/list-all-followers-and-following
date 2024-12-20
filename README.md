@@ -305,10 +305,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/luckyman816">
+      <a href="https://github.com/LSSandes">
         <img src="https://avatars.githubusercontent.com/u/149780529?v=4" width="50" />
         <br />
-        luckyman816
+        LSSandes
       </a>
     </td>
     <td width="150" align="center">
