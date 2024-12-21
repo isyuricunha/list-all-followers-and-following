@@ -27254,10 +27254,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/ggreg1987">
+      <a href="https://github.com/gabr1eldev">
         <img src="https://avatars.githubusercontent.com/u/65198340?v=4" width="50" />
         <br />
-        ggreg1987
+        gabr1eldev
       </a>
     </td>
     <td width="150" align="center">
