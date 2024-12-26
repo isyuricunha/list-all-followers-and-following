@@ -3494,10 +3494,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Miro-456">
+      <a href="https://github.com/QuartzTS">
         <img src="https://avatars.githubusercontent.com/u/125689650?v=4" width="50" />
         <br />
-        Miro-456
+        QuartzTS
       </a>
     </td>
     <td width="150" align="center">
