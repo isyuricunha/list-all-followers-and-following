@@ -39415,10 +39415,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/ojbdev">
+      <a href="https://github.com/otaciobarbosa">
         <img src="https://avatars.githubusercontent.com/u/25693388?v=4" width="50" />
         <br />
-        ojbdev
+        otaciobarbosa
       </a>
     </td>
     <td width="150" align="center">
