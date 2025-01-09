@@ -859,10 +859,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/pedroyureriosmiguel">
+      <a href="https://github.com/pedroyurerios-miguel">
         <img src="https://avatars.githubusercontent.com/u/140328659?v=4" width="50" />
         <br />
-        pedroyureriosmiguel
+        pedroyurerios-miguel
       </a>
     </td>
     <td width="150" align="center">
