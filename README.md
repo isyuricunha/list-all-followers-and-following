@@ -27204,10 +27204,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/gabriel-dev87">
+      <a href="https://github.com/gabriel-gregorio-dev">
         <img src="https://avatars.githubusercontent.com/u/65198340?v=4" width="50" />
         <br />
-        gabriel-dev87
+        gabriel-gregorio-dev
       </a>
     </td>
     <td width="150" align="center">
