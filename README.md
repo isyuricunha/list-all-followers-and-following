@@ -33540,10 +33540,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/abdieldeathayde">
+      <a href="https://github.com/Desenvolvedor-Abdiel">
         <img src="https://avatars.githubusercontent.com/u/46298069?v=4" width="50" />
         <br />
-        abdieldeathayde
+        Desenvolvedor-Abdiel
       </a>
     </td>
     <td width="150" align="center">
