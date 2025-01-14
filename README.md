@@ -7627,10 +7627,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Ajaiyeoba">
+      <a href="https://github.com/theNubiadev">
         <img src="https://avatars.githubusercontent.com/u/114266797?v=4" width="50" />
         <br />
-        Ajaiyeoba
+        theNubiadev
       </a>
     </td>
     <td width="150" align="center">
