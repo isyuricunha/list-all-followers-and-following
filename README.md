@@ -29400,10 +29400,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/toomelancholic">
+      <a href="https://github.com/dddantas">
         <img src="https://avatars.githubusercontent.com/u/58989635?v=4" width="50" />
         <br />
-        toomelancholic
+        dddantas
       </a>
     </td>
     <td width="150" align="center">
