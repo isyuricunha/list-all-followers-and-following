@@ -10529,10 +10529,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/samyCode3">
+      <a href="https://github.com/samyCodex">
         <img src="https://avatars.githubusercontent.com/u/107084481?v=4" width="50" />
         <br />
-        samyCode3
+        samyCodex
       </a>
     </td>
     <td width="150" align="center">
