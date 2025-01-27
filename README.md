@@ -33309,10 +33309,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/TWR-pixel">
+      <a href="https://github.com/Dilinnat">
         <img src="https://avatars.githubusercontent.com/u/46828715?v=4" width="50" />
         <br />
-        TWR-pixel
+        Dilinnat
       </a>
     </td>
   </tr><tr>
