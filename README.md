@@ -9996,10 +9996,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/izzyadora">
+      <a href="https://github.com/codewithdora">
         <img src="https://avatars.githubusercontent.com/u/108076468?v=4" width="50" />
         <br />
-        izzyadora
+        codewithdora
       </a>
     </td>
     <td width="150" align="center">
