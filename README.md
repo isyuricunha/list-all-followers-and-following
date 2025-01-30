@@ -10255,10 +10255,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/deizianer">
+      <a href="https://github.com/deizirrs">
         <img src="https://avatars.githubusercontent.com/u/107568248?v=4" width="50" />
         <br />
-        deizianer
+        deizirrs
       </a>
     </td>
     <td width="150" align="center">
