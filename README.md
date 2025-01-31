@@ -14431,10 +14431,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/0x00088">
+      <a href="https://github.com/0xgooroo">
         <img src="https://avatars.githubusercontent.com/u/97841807?v=4" width="50" />
         <br />
-        0x00088
+        0xgooroo
       </a>
     </td>
     <td width="150" align="center">
