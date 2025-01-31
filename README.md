@@ -19788,10 +19788,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/GestaIt">
+      <a href="https://github.com/avenoirrr">
         <img src="https://avatars.githubusercontent.com/u/84202199?v=4" width="50" />
         <br />
-        GestaIt
+        avenoirrr
       </a>
     </td>
     <td width="150" align="center">
