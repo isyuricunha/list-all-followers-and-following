@@ -14431,10 +14431,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/etherpan">
+      <a href="https://github.com/0x00088">
         <img src="https://avatars.githubusercontent.com/u/97841807?v=4" width="50" />
         <br />
-        etherpan
+        0x00088
       </a>
     </td>
     <td width="150" align="center">
