@@ -33475,10 +33475,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Abdiel-Dev-Java">
+      <a href="https://github.com/abdieldeathayde">
         <img src="https://avatars.githubusercontent.com/u/46298069?v=4" width="50" />
         <br />
-        Abdiel-Dev-Java
+        abdieldeathayde
       </a>
     </td>
     <td width="150" align="center">
