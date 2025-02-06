@@ -2875,10 +2875,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/sri-dsa">
+      <a href="https://github.com/srivatz-codes">
         <img src="https://avatars.githubusercontent.com/u/129240361?v=4" width="50" />
         <br />
-        sri-dsa
+        srivatz-codes
       </a>
     </td>
     <td width="150" align="center">
