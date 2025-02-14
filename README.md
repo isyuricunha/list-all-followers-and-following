@@ -7094,10 +7094,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/wnprince">
+      <a href="https://github.com/bzagranichny">
         <img src="https://avatars.githubusercontent.com/u/115405363?v=4" width="50" />
         <br />
-        wnprince
+        bzagranichny
       </a>
     </td>
     <td width="150" align="center">
