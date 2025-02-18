@@ -7713,10 +7713,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/talent-oleksii">
+      <a href="https://github.com/how-to-de">
         <img src="https://avatars.githubusercontent.com/u/113978647?v=4" width="50" />
         <br />
-        talent-oleksii
+        how-to-de
       </a>
     </td>
   </tr><tr>
