@@ -24554,10 +24554,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/pepetrades">
+      <a href="https://github.com/eliecerhf">
         <img src="https://avatars.githubusercontent.com/u/71914183?v=4" width="50" />
         <br />
-        pepetrades
+        eliecerhf
       </a>
     </td>
     <td width="150" align="center">
