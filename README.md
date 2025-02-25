@@ -25281,10 +25281,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/dutsi170">
+      <a href="https://github.com/datadupy">
         <img src="https://avatars.githubusercontent.com/u/69758392?v=4" width="50" />
         <br />
-        dutsi170
+        datadupy
       </a>
     </td>
   </tr><tr>
