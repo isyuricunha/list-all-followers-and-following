@@ -15288,10 +15288,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Clousbi">
+      <a href="https://github.com/BiancaMarques17">
         <img src="https://avatars.githubusercontent.com/u/96201252?v=4" width="50" />
         <br />
-        Clousbi
+        BiancaMarques17
       </a>
     </td>
     <td width="150" align="center">
