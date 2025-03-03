@@ -6929,10 +6929,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/2211102180-Andika-Pratama-Aji-urnomo">
+      <a href="https://github.com/2211102180-Andika-Pratama-Aji-Purnomo">
         <img src="https://avatars.githubusercontent.com/u/115676118?v=4" width="50" />
         <br />
-        2211102180-Andika-Pratama-Aji-urnomo
+        2211102180-Andika-Pratama-Aji-Purnomo
       </a>
     </td>
     <td width="150" align="center">
