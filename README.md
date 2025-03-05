@@ -23244,10 +23244,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/maxim9812">
+      <a href="https://github.com/matyasdev">
         <img src="https://avatars.githubusercontent.com/u/75461450?v=4" width="50" />
         <br />
-        maxim9812
+        matyasdev
       </a>
     </td>
     <td width="150" align="center">
