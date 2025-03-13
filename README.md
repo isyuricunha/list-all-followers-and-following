@@ -20407,10 +20407,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/qwertSE">
+      <a href="https://github.com/daniloub">
         <img src="https://avatars.githubusercontent.com/u/82679515?v=4" width="50" />
         <br />
-        qwertSE
+        daniloub
       </a>
     </td>
     <td width="150" align="center">
