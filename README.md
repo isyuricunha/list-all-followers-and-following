@@ -32676,10 +32676,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/polartar">
+      <a href="https://github.com/aristidesgpg">
         <img src="https://avatars.githubusercontent.com/u/48382274?v=4" width="50" />
         <br />
-        polartar
+        aristidesgpg
       </a>
     </td>
     <td width="150" align="center">
