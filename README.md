@@ -5064,10 +5064,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/VIELITE">
+      <a href="https://github.com/vielite">
         <img src="https://avatars.githubusercontent.com/u/121090896?v=4" width="50" />
         <br />
-        VIELITE
+        vielite
       </a>
     </td>
     <td width="150" align="center">
