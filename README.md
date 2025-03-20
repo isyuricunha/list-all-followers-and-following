@@ -9261,10 +9261,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/javier901">
+      <a href="https://github.com/apollo1017">
         <img src="https://avatars.githubusercontent.com/u/110030401?v=4" width="50" />
         <br />
-        javier901
+        apollo1017
       </a>
     </td>
   </tr><tr>
@@ -43202,10 +43202,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/ghtali">
+      <a href="https://github.com/ghtsean">
         <img src="https://avatars.githubusercontent.com/u/7505665?v=4" width="50" />
         <br />
-        ghtali
+        ghtsean
       </a>
     </td>
     <td width="150" align="center">
