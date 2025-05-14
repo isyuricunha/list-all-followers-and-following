@@ -32237,10 +32237,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/prithvirajkshatriya">
+      <a href="https://github.com/its-prithvi-raj">
         <img src="https://avatars.githubusercontent.com/u/50717968?v=4" width="50" />
         <br />
-        prithvirajkshatriya
+        its-prithvi-raj
       </a>
     </td>
     <td width="150" align="center">
