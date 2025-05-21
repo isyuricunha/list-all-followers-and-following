@@ -441,10 +441,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/ls7co">
+      <a href="https://github.com/thelabmde">
         <img src="https://avatars.githubusercontent.com/u/161765219?v=4" width="50" />
         <br />
-        ls7co
+        thelabmde
       </a>
     </td>
   </tr><tr>
