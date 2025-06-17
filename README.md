@@ -81,10 +81,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/parasociaI">
+      <a href="https://github.com/carnaI">
         <img src="https://avatars.githubusercontent.com/u/204786214?v=4" width="50" />
         <br />
-        parasociaI
+        carnaI
       </a>
     </td>
   </tr><tr>
