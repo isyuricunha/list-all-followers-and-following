@@ -42266,10 +42266,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/fabiomendesec">
+      <a href="https://github.com/mendsec">
         <img src="https://avatars.githubusercontent.com/u/12684528?v=4" width="50" />
         <br />
-        fabiomendesec
+        mendsec
       </a>
     </td>
     <td width="150" align="center">
