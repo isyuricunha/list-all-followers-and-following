@@ -290,10 +290,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/yooofus">
+      <a href="https://github.com/yoofus">
         <img src="https://avatars.githubusercontent.com/u/174480900?v=4" width="50" />
         <br />
-        yooofus
+        yoofus
       </a>
     </td>
     <td width="150" align="center">
