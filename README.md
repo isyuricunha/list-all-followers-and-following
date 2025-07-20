@@ -103,10 +103,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/sIavic">
+      <a href="https://github.com/maIewife">
         <img src="https://avatars.githubusercontent.com/u/204786214?v=4" width="50" />
         <br />
-        sIavic
+        maIewife
       </a>
     </td>
     <td width="150" align="center">
@@ -45255,7 +45255,7 @@
   </tr>
 </table>
 
-## Following <kbd>1</kbd>
+## Following <kbd>2</kbd>
 
 <table>
   <tr>
@@ -45267,6 +45267,11 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/privacyguides">
+        <img src="https://avatars.githubusercontent.com/u/65135197?v=4" width="50" />
+        <br />
+        privacyguides
+      </a>
     </td>
     <td width="150" align="center">
     </td>
