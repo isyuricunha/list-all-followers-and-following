@@ -672,10 +672,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/goldenstar0x01">
+      <a href="https://github.com/thesunwillriseup">
         <img src="https://avatars.githubusercontent.com/u/147424621?v=4" width="50" />
         <br />
-        goldenstar0x01
+        thesunwillriseup
       </a>
     </td>
     <td width="150" align="center">
