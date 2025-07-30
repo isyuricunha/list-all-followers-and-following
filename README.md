@@ -305,10 +305,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/yoofus">
+      <a href="https://github.com/9dkc">
         <img src="https://avatars.githubusercontent.com/u/174480900?v=4" width="50" />
         <br />
-        yoofus
+        9dkc
       </a>
     </td>
     <td width="150" align="center">
@@ -41287,10 +41287,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/vipinsaini0">
+      <a href="https://github.com/vipinsainitech">
         <img src="https://avatars.githubusercontent.com/u/16730481?v=4" width="50" />
         <br />
-        vipinsaini0
+        vipinsainitech
       </a>
     </td>
     <td width="150" align="center">
