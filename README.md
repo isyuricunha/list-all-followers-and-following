@@ -10,7 +10,7 @@
 
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
-| Yuri | Privacy is a right, not a luxury. | [yuricunha.com](https://yuricunha.com) | - | - |
+| Yuri | Lurking in plaintext is dangerous. | [yuricunha.com](https://yuricunha.com) | - | - |
 
 ## Followers <kbd>6275</kbd>
 
