@@ -103,10 +103,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/maIewife">
+      <a href="https://github.com/paraphilic">
         <img src="https://avatars.githubusercontent.com/u/204786214?v=4" width="50" />
         <br />
-        maIewife
+        paraphilic
       </a>
     </td>
     <td width="150" align="center">
