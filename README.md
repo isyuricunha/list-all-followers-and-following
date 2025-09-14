@@ -16829,10 +16829,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/rhyanndev">
+      <a href="https://github.com/rhyanns">
         <img src="https://avatars.githubusercontent.com/u/92160378?v=4" width="50" />
         <br />
-        rhyanndev
+        rhyanns
       </a>
     </td>
     <td width="150" align="center">
