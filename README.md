@@ -19579,10 +19579,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/shadowghost94">
+      <a href="https://github.com/ouzayr-droid">
         <img src="https://avatars.githubusercontent.com/u/84946909?v=4" width="50" />
         <br />
-        shadowghost94
+        ouzayr-droid
       </a>
     </td>
     <td width="150" align="center">
