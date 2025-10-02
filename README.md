@@ -10478,10 +10478,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/ThecoderPinar">
+      <a href="https://github.com/CodeByPinar">
         <img src="https://avatars.githubusercontent.com/u/107423523?v=4" width="50" />
         <br />
-        ThecoderPinar
+        CodeByPinar
       </a>
     </td>
     <td width="150" align="center">
