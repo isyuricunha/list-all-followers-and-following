@@ -38,10 +38,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/RALSEl">
+      <a href="https://github.com/souIvester">
         <img src="https://avatars.githubusercontent.com/u/218372203?v=4" width="50" />
         <br />
-        RALSEl
+        souIvester
       </a>
     </td>
     <td width="150" align="center">
@@ -161,10 +161,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/echandsome0106">
+      <a href="https://github.com/legendary-heros">
         <img src="https://avatars.githubusercontent.com/u/194684170?v=4" width="50" />
         <br />
-        echandsome0106
+        legendary-heros
       </a>
     </td>
     <td width="150" align="center">
