@@ -74,10 +74,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/nelbetancur">
+      <a href="https://github.com/nmbetancur">
         <img src="https://avatars.githubusercontent.com/u/207216445?v=4" width="50" />
         <br />
-        nelbetancur
+        nmbetancur
       </a>
     </td>
     <td width="150" align="center">
