@@ -15129,10 +15129,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/naruhitokaide">
+      <a href="https://github.com/wissen-snake">
         <img src="https://avatars.githubusercontent.com/u/96631656?v=4" width="50" />
         <br />
-        naruhitokaide
+        wissen-snake
       </a>
     </td>
   </tr><tr>
