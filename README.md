@@ -6921,10 +6921,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/314n">
+      <a href="https://github.com/Laura-KP">
         <img src="https://avatars.githubusercontent.com/u/116173574?v=4" width="50" />
         <br />
-        314n
+        Laura-KP
       </a>
     </td>
   </tr><tr>
