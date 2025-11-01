@@ -25893,10 +25893,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/gabizinha12">
+      <a href="https://github.com/gabrielle-lima">
         <img src="https://avatars.githubusercontent.com/u/67937973?v=4" width="50" />
         <br />
-        gabizinha12
+        gabrielle-lima
       </a>
     </td>
   </tr><tr>
