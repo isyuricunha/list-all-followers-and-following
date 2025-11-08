@@ -10867,10 +10867,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Kevin-Zoldyck">
+      <a href="https://github.com/TheStarryMan">
         <img src="https://avatars.githubusercontent.com/u/106468714?v=4" width="50" />
         <br />
-        Kevin-Zoldyck
+        TheStarryMan
       </a>
     </td>
     <td width="150" align="center">
