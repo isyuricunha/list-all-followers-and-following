@@ -45,10 +45,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Eirik-star">
+      <a href="https://github.com/Suzi051293">
         <img src="https://avatars.githubusercontent.com/u/218554356?v=4" width="50" />
         <br />
-        Eirik-star
+        Suzi051293
       </a>
     </td>
   </tr><tr>
@@ -9204,10 +9204,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/PirateCodeWeb3">
+      <a href="https://github.com/AndyChanWeb3">
         <img src="https://avatars.githubusercontent.com/u/110432670?v=4" width="50" />
         <br />
-        PirateCodeWeb3
+        AndyChanWeb3
       </a>
     </td>
     <td width="150" align="center">
