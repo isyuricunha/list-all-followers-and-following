@@ -2796,10 +2796,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/bibcode">
+      <a href="https://github.com/CodeBugxDev">
         <img src="https://avatars.githubusercontent.com/u/130842798?v=4" width="50" />
         <br />
-        bibcode
+        CodeBugxDev
       </a>
     </td>
     <td width="150" align="center">
