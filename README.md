@@ -60,10 +60,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Eric-Eiric">
+      <a href="https://github.com/eirik1013">
         <img src="https://avatars.githubusercontent.com/u/218554356?v=4" width="50" />
         <br />
-        Eric-Eiric
+        eirik1013
       </a>
     </td>
     <td width="150" align="center">
@@ -26318,10 +26318,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/vicenteicc2008">
+      <a href="https://github.com/vizPilot">
         <img src="https://avatars.githubusercontent.com/u/66806243?v=4" width="50" />
         <br />
-        vicenteicc2008
+        vizPilot
       </a>
     </td>
     <td width="150" align="center">
